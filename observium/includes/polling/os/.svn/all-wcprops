@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4043/observer/trunk/includes/polling/os
+END
+tranzeo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/tranzeo.inc.php
+END
+jwos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/jwos.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/ipoman.inc.php
+END
+printer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3825/observer/trunk/includes/polling/os/printer.inc.php
+END
+extremeware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3808/observer/trunk/includes/polling/os/extremeware.inc.php
+END
+arista_eos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/arista_eos.inc.php
+END
+acsw.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3000/observer/trunk/includes/polling/os/acsw.inc.php
+END
+comware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/comware.inc.php
+END
+nos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3739/observer/trunk/includes/polling/os/nos.inc.php
+END
+junose.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/junose.inc.php
+END
+konica.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/konica.inc.php
+END
+symbol.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/symbol.inc.php
+END
+vyatta.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2661/observer/trunk/includes/polling/os/vyatta.inc.php
+END
+drac.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/drac.inc.php
+END
+snom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3240/observer/trunk/includes/polling/os/snom.inc.php
+END
+engenius.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/engenius.inc.php
+END
+juniperive.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3739/observer/trunk/includes/polling/os/juniperive.inc.php
+END
+screenos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/screenos.inc.php
+END
+deltaups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1563/observer/trunk/includes/polling/os/deltaups.inc.php
+END
+zywall.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/zywall.inc.php
+END
+unix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3818/observer/trunk/includes/polling/os/unix.inc.php
+END
+fortigate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3068/observer/trunk/includes/polling/os/fortigate.inc.php
+END
+minkelsrms.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/minkelsrms.inc.php
+END
+dell-laser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3025/observer/trunk/includes/polling/os/dell-laser.inc.php
+END
+ironware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/ironware.inc.php
+END
+fabos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2851/observer/trunk/includes/polling/os/fabos.inc.php
+END
+arubaos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/includes/polling/os/arubaos.inc.php
+END
+firebox.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2782/observer/trunk/includes/polling/os/firebox.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/mgeups.inc.php
+END
+radlan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3087/observer/trunk/includes/polling/os/radlan.inc.php
+END
+brother.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/brother.inc.php
+END
+sentry3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2517/observer/trunk/includes/polling/os/sentry3.inc.php
+END
+catos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3240/observer/trunk/includes/polling/os/catos.inc.php
+END
+areca.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/areca.inc.php
+END
+ftos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3240/observer/trunk/includes/polling/os/ftos.inc.php
+END
+airos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3396/observer/trunk/includes/polling/os/airos.inc.php
+END
+panos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3068/observer/trunk/includes/polling/os/panos.inc.php
+END
+airport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2999/observer/trunk/includes/polling/os/airport.inc.php
+END
+zyxelnwa.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/zyxelnwa.inc.php
+END
+routeros.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/routeros.inc.php
+END
+aos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/aos.inc.php
+END
+poweralert.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2037/observer/trunk/includes/polling/os/poweralert.inc.php
+END
+zxr10.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2750/observer/trunk/includes/polling/os/zxr10.inc.php
+END
+mrvld.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3547/observer/trunk/includes/polling/os/mrvld.inc.php
+END
+allied.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3240/observer/trunk/includes/polling/os/allied.inc.php
+END
+ios.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/includes/polling/os/ios.inc.php
+END
+sonicwall.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3218/observer/trunk/includes/polling/os/sonicwall.inc.php
+END
+kyocera.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/kyocera.inc.php
+END
+junos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/junos.inc.php
+END
+vmware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3862/observer/trunk/includes/polling/os/vmware.inc.php
+END
+speedtouch.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3857/observer/trunk/includes/polling/os/speedtouch.inc.php
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3923/observer/trunk/includes/polling/os/apc.inc.php
+END
+procurve.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3240/observer/trunk/includes/polling/os/procurve.inc.php
+END
+xerox.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/xerox.inc.php
+END
+powerconnect.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/powerconnect.inc.php
+END
+powerware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1588/observer/trunk/includes/polling/os/powerware.inc.php
+END
+netscaler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2833/observer/trunk/includes/polling/os/netscaler.inc.php
+END
+cat1900.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/cat1900.inc.php
+END
+bnt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/bnt.inc.php
+END
+wlc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3739/observer/trunk/includes/polling/os/wlc.inc.php
+END
+nrg.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3218/observer/trunk/includes/polling/os/nrg.inc.php
+END
+netmanplus.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/netmanplus.inc.php
+END
+netapp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3827/observer/trunk/includes/polling/os/netapp.inc.php
+END
+avaya-ers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2966/observer/trunk/includes/polling/os/avaya-ers.inc.php
+END
+windows.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4043/observer/trunk/includes/polling/os/windows.inc.php
+END
+avocent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/avocent.inc.php
+END
+cisco.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3887/observer/trunk/includes/polling/os/cisco.inc.php
+END
+dlink.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3593/observer/trunk/includes/polling/os/dlink.inc.php
+END
+iosxr.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2966/observer/trunk/includes/polling/os/iosxr.inc.php
+END
+ricoh.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/ricoh.inc.php
+END
+vrp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/vrp.inc.php
+END
+powervault.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/powervault.inc.php
+END
+akcp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1841/observer/trunk/includes/polling/os/akcp.inc.php
+END
+ies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2863/observer/trunk/includes/polling/os/ies.inc.php
+END

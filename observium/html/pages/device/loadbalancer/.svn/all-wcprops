@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/loadbalancer
+END
+ace_rservers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/loadbalancer/ace_rservers.inc.php
+END
+netscaler_services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/loadbalancer/netscaler_services.inc.php
+END
+ace_vservers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/loadbalancer/ace_vservers.inc.php
+END
+netscaler_vsvr.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/loadbalancer/netscaler_vsvr.inc.php
+END

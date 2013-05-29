@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp
+END
+UCD-DEMO-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-DEMO-MIB.txt
+END
+NET-SNMP-AGENT-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-AGENT-MIB.txt
+END
+NET-SNMP-TC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-TC.txt
+END
+NET-SNMP-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-MIB.txt
+END
+LM-SENSORS-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/LM-SENSORS-MIB.txt
+END
+UCD-SNMP-MIB-OLD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-SNMP-MIB-OLD.txt
+END
+NET-SNMP-PERIODIC-NOTIFY-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-PERIODIC-NOTIFY-MIB.txt
+END
+NET-SNMP-PASS-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-PASS-MIB.txt
+END
+UCD-DLMOD-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-DLMOD-MIB.txt
+END
+NET-SNMP-EXAMPLES-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-EXAMPLES-MIB.txt
+END
+NET-SNMP-SYSTEM-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-SYSTEM-MIB.txt
+END
+NET-SNMP-VACM-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-VACM-MIB.txt
+END
+UCD-IPFWACC-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-IPFWACC-MIB.txt
+END
+NET-SNMP-MONITOR-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-MONITOR-MIB.txt
+END
+NET-SNMP-EXTEND-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/NET-SNMP-EXTEND-MIB.txt
+END
+UCD-SNMP-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-SNMP-MIB.txt
+END
+UCD-IPFILTER-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-IPFILTER-MIB.txt
+END
+RFC-1215.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/RFC-1215.txt
+END
+UCD-DISKIO-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/net-snmp/UCD-DISKIO-MIB.txt
+END

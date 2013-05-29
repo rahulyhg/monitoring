@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps
+END
+apache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/apache.inc.php
+END
+nginx.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/nginx.inc.php
+END
+zimbra.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/zimbra.inc.php
+END
+nfs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/nfs.inc.php
+END
+exim-mailqueue.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/exim-mailqueue.inc.php
+END
+freeradius.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/freeradius.inc.php
+END
+mailscanner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/mailscanner.inc.php
+END
+powerdns.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/powerdns.inc.php
+END
+powerdns-recursor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/powerdns-recursor.inc.php
+END
+postgresql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/postgresql.inc.php
+END
+ntpd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/ntpd.inc.php
+END
+mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/mysql.inc.php
+END
+memcached.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/memcached.inc.php
+END
+ntpd-server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/ntpd-server.inc.php
+END
+app_navbar.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3685/observer/trunk/html/pages/device/apps/app_navbar.inc.php
+END
+unbound.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/unbound.inc.php
+END
+drbd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/drbd.inc.php
+END
+shoutcast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/shoutcast.inc.php
+END
+ntp-client.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/ntp-client.inc.php
+END
+postfix_mailgraph.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/apps/postfix_mailgraph.inc.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3988/observer/trunk/includes/discovery/vlans
+END
+cisco-vtp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3988/observer/trunk/includes/discovery/vlans/cisco-vtp.inc.php
+END
+q-bridge-mib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3115/observer/trunk/includes/discovery/vlans/q-bridge-mib.inc.php
+END

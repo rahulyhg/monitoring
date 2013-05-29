@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4045/observer/trunk/includes/discovery
+END
+current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/current.inc.php
+END
+entity-sensor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3533/observer/trunk/includes/discovery/entity-sensor.inc.php
+END
+vlans.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3925/observer/trunk/includes/discovery/vlans.inc.php
+END
+bgp-peers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3964/observer/trunk/includes/discovery/bgp-peers.inc.php
+END
+voltages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages.inc.php
+END
+processors-ucd-old.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/processors-ucd-old.inc.php
+END
+toner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3782/observer/trunk/includes/discovery/toner.inc.php
+END
+mac-accounting.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3827/observer/trunk/includes/discovery/mac-accounting.inc.php
+END
+discovery-protocols.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4038/observer/trunk/includes/discovery/discovery-protocols.inc.php
+END
+cisco-cef.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/includes/discovery/cisco-cef.inc.php
+END
+cisco-vrf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3854/observer/trunk/includes/discovery/cisco-vrf.inc.php
+END
+power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/power.inc.php
+END
+ipv4-addresses.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3195/observer/trunk/includes/discovery/ipv4-addresses.inc.php
+END
+ipv6-addresses.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3195/observer/trunk/includes/discovery/ipv6-addresses.inc.php
+END
+dbm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3533/observer/trunk/includes/discovery/dbm.inc.php
+END
+processors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/processors.inc.php
+END
+ospf-autodiscovery.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/ospf-autodiscovery.inc.php
+END
+junose-atm-vp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/junose-atm-vp.inc.php
+END
+libvirt-vminfo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4005/observer/trunk/includes/discovery/libvirt-vminfo.inc.php
+END
+arp-table.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3873/observer/trunk/includes/discovery/arp-table.inc.php
+END
+functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4005/observer/trunk/includes/discovery/functions.inc.php
+END
+temperatures.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/temperatures.inc.php
+END
+os.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1995/observer/trunk/includes/discovery/os.inc.php
+END
+cisco-entity-sensor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3853/observer/trunk/includes/discovery/cisco-entity-sensor.inc.php
+END
+services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/services.inc.php
+END
+cisco-pw.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/cisco-pw.inc.php
+END
+entity-physical.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/entity-physical.inc.php
+END
+mempools.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/mempools.inc.php
+END
+ucd-diskio.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/ucd-diskio.inc.php
+END
+humidity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/humidity.inc.php
+END
+sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3533/observer/trunk/includes/discovery/sensors.inc.php
+END
+vmware-vminfo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/vmware-vminfo.inc.php
+END
+storage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3778/observer/trunk/includes/discovery/storage.inc.php
+END
+hr-device.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2029/observer/trunk/includes/discovery/hr-device.inc.php
+END
+ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3574/observer/trunk/includes/discovery/ports.inc.php
+END
+fanspeeds.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/fanspeeds.inc.php
+END
+frequencies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/frequencies.inc.php
+END
+ports-stack.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3195/observer/trunk/includes/discovery/ports-stack.inc.php
+END
+sensors-netscaler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2964/observer/trunk/includes/discovery/sensors-netscaler.inc.php
+END
+cisco-sla.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3008/observer/trunk/includes/discovery/cisco-sla.inc.php
+END

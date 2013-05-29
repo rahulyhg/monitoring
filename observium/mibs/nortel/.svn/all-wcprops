@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel
+END
+nortel-external-server-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-external-server-mib.my
+END
+ntwlanap006.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ntwlanap006.mib
+END
+baystackospfext.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackospfext.mib
+END
+baystackdhcpsnooping.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackdhcpsnooping.mib
+END
+TRIPLE-DES-CONSORTIUM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/TRIPLE-DES-CONSORTIUM-MIB.mib
+END
+BUNDLE-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BUNDLE-MIB.mib
+END
+rcmlt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/rcmlt.mib
+END
+nortel-ap-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-ap-tc.my
+END
+cvlan000.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/cvlan000.mib
+END
+cesTraps.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/cesTraps.mib
+END
+WFCOMMON.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/WFCOMMON.MIB
+END
+rapid_city.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/rapid_city.mib
+END
+GENERIC-HDLC-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/GENERIC-HDLC-MIB.mib
+END
+DSX-TE1-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/DSX-TE1-MIB.mib
+END
+nortel-info-rf-detect-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-info-rf-detect-mib.my
+END
+DSX-TE3-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/DSX-TE3-MIB.mib
+END
+SSH.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/SSH.mib
+END
+HARDWARE.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/HARDWARE.MIB
+END
+nnmst.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nnmst.mib
+END
+nortel-basic.my
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-basic.my
+END
+s5ctr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5ctr.mib
+END
+baystack.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystack.mib
+END
+baystacksourceguard.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystacksourceguard.mib
+END
+QOSSLA-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/QOSSLA-MIB.mib
+END
+nortel-port-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-port-mib.my
+END
+bgp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/bgp.mib
+END
+ces.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ces.mib
+END
+BAY-STACK-IP-FWD-NH-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-IP-FWD-NH-MIB.mib
+END
+FR-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/FR-MIB.mib
+END
+aosphysical.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aosphysical.mib
+END
+nortel-ap-if-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-ap-if-mib.my
+END
+altroot.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/altroot.mib
+END
+s5emt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5emt.mib
+END
+bnlog.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/bnlog.mib
+END
+bayxlr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/bayxlr.mib
+END
+NTN-QOS-POLICY-EXT-PIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/NTN-QOS-POLICY-EXT-PIB.mib
+END
+Commgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/Commgmt.mib
+END
+baystackpethext.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackpethext.mib
+END
+BAY-STACK-NES-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-NES-MIB.mib
+END
+nortelsecurenetworkaccess.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortelsecurenetworkaccess.mib
+END
+OSPF.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/OSPF.MIB
+END
+DSX-TC-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/DSX-TC-MIB.mib
+END
+NORTEL-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/NORTEL-MIB.mib
+END
+baystackmulticastflooding.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackmulticastflooding.mib
+END
+baystackradius.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackradius.mib
+END
+TAG1Q.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/TAG1Q.MIB
+END
+QOS-POLICY-IP-PIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/QOS-POLICY-IP-PIB.mib
+END
+bsee.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/bsee.mib
+END
+ces_trapAck.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ces_trapAck.mib
+END
+rapid_city_vsp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/rapid_city_vsp.mib
+END
+SNMP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/SNMP-MIB.mib
+END
+nortel-client-session-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-client-session-tc.my
+END
+MODULE.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/MODULE.MIB
+END
+ces_id.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ces_id.mib
+END
+s5erl.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5erl.mib
+END
+nortel-license-feature-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-license-feature-tc.my
+END
+s5sbs.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5sbs.mib
+END
+nortel-rf-detect-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-rf-detect-tc.my
+END
+aoslayer7.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aoslayer7.mib
+END
+BAY-STACK-UNICAST-STORM-CONTROL-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-UNICAST-STORM-CONTROL-MIB.mib
+END
+nortel-system-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-system-mib.my
+END
+nortel-ap-unconfigured-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-ap-unconfigured-mib.my
+END
+synro.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/synro.mib
+END
+BAY-STACK-IGMP-EXT-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-IGMP-EXT-MIB.mib
+END
+s5ecm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5ecm.mib
+END
+wf_pgm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/wf_pgm.mib
+END
+croot217.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/croot217.mib
+END
+ALTEON-AC-vADC-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ALTEON-AC-vADC-MIB.mib
+END
+s5reg.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5reg.mib
+END
+nortel-trap.my
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-trap.my
+END
+s5com.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5com.mib
+END
+BAY-STACK-NOTIFICATIONS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-NOTIFICATIONS-MIB.mib
+END
+baystackvrrpext.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackvrrpext.mib
+END
+L2mgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/L2mgmt.mib
+END
+L3mgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/L3mgmt.mib
+END
+nortel-basic-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-basic-tc.my
+END
+baystackecmp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackecmp.mib
+END
+BAY-STACK-NOTIFY-CONTROL-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-NOTIFY-CONTROL-MIB.mib
+END
+ccfg210.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ccfg210.mib
+END
+nortel-ap-config-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-ap-config-mib.my
+END
+s5eth.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5eth.mib
+END
+NTN-QOS-POLICY-AUX-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/NTN-QOS-POLICY-AUX-MIB.mib
+END
+baystackarpinspection.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackarpinspection.mib
+END
+CHASSIS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/CHASSIS-MIB.mib
+END
+nortel-root.my
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-root.my
+END
+s5etr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5etr.mib
+END
+ntEnterpriseDataTasmanMgmtethernet.mib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ntEnterpriseDataTasmanMgmtethernet.mib
+END
+nortel-ap-status-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-ap-status-mib.my
+END
+baystackadac.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackadac.mib
+END
+BAY-STACK-PORT-MIRRORING-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-PORT-MIRRORING-MIB.mib
+END
+CONFIG-MGMT-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/CONFIG-MGMT-MIB.mib
+END
+PriL3mgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/PriL3mgmt.mib
+END
+baystackerrormessage.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackerrormessage.mib
+END
+BAY-STACK-LLDP-X-AVAYA-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-LLDP-X-AVAYA-MIB.mib
+END
+baystacklacpext.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystacklacpext.mib
+END
+nortel-client-session-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-client-session-mib.my
+END
+AAC.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/AAC.mib
+END
+s3com.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s3com.mib
+END
+aosbwm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aosbwm.mib
+END
+tigonNetwork.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/tigonNetwork.mib
+END
+CSMACD.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/CSMACD.MIB
+END
+s5tcs.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5tcs.mib
+END
+POLICY-FRAMEWORK-PIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/POLICY-FRAMEWORK-PIB.mib
+END
+PPP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/PPP-MIB.mib
+END
+s5roo.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5roo.mib
+END
+NTN-QOS-POLICY-EVOL-PIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/NTN-QOS-POLICY-EVOL-PIB.mib
+END
+ENVIRONMENT-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ENVIRONMENT-MIB.mib
+END
+nortel-reg-devices.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-reg-devices.my
+END
+tigonPhysical.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/tigonPhysical.mib
+END
+QOS-POLICY-802-PIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/QOS-POLICY-802-PIB.mib
+END
+baystackstats.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/baystackstats.mib
+END
+newoak.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/newoak.mib
+END
+DVMRP-STD-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/DVMRP-STD-MIB.mib
+END
+BAY-STACK-EDM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-EDM-MIB.mib
+END
+s3eth.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s3eth.mib
+END
+nortel-reg-chassis.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nortel-reg-chassis.my
+END
+SYSTEM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/SYSTEM-MIB.mib
+END
+aosnetwork.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aosnetwork.mib
+END
+s5ifx.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5ifx.mib
+END
+aoslayer4.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aoslayer4.mib
+END
+aosswitch.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/aosswitch.mib
+END
+nnrst.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/nnrst.mib
+END
+s5age.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5age.mib
+END
+NT-ENTERPRISE-DATA-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/NT-ENTERPRISE-DATA-MIB.mib
+END
+BAY-STACK-LLDP-EXT-MED-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/BAY-STACK-LLDP-EXT-MED-MIB.mib
+END
+ntEnterpriseDataTasmanMgmtchassis.mib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/ntEnterpriseDataTasmanMgmtchassis.mib
+END
+cd3ex201.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/cd3ex201.mib
+END
+mcast201.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/mcast201.mib
+END
+tigonSwitch.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/tigonSwitch.mib
+END
+s5cha.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3805/observer/trunk/mibs/nortel/s5cha.mib
+END

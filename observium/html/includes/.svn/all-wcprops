@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4074/observer/trunk/html/includes
+END
+print-graphrow.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-graphrow.inc.php
+END
+device-header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3735/observer/trunk/html/includes/device-header.inc.php
+END
+hostbox.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/observer/trunk/html/includes/hostbox.inc.php
+END
+print-accesspoint-graphs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3884/observer/trunk/html/includes/print-accesspoint-graphs.inc.php
+END
+print-vrf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-vrf.inc.php
+END
+print-interface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4038/observer/trunk/html/includes/print-interface.inc.php
+END
+print-service.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-service.inc.php
+END
+print-vlan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4038/observer/trunk/html/includes/print-vlan.inc.php
+END
+footer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3932/observer/trunk/html/includes/footer.inc.php
+END
+service-delete.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2520/observer/trunk/html/includes/service-delete.inc.php
+END
+javascript-interfacepicker.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3195/observer/trunk/html/includes/javascript-interfacepicker.inc.php
+END
+functions-print.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4073/observer/trunk/html/includes/functions-print.inc.php
+END
+error-no-perm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2919/observer/trunk/html/includes/error-no-perm.inc.php
+END
+hostbox-basic.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4024/observer/trunk/html/includes/hostbox-basic.inc.php
+END
+print-accesspoint.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-accesspoint.inc.php
+END
+hostbox-status.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/includes/hostbox-status.inc.php
+END
+port-edit.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3195/observer/trunk/html/includes/port-edit.inc.php
+END
+functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4074/observer/trunk/html/includes/functions.inc.php
+END
+navbar.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4024/observer/trunk/html/includes/navbar.inc.php
+END
+port-sort.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3575/observer/trunk/html/includes/port-sort.inc.php
+END
+cache-data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4050/observer/trunk/html/includes/cache-data.inc.php
+END
+print-interface-adsl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4038/observer/trunk/html/includes/print-interface-adsl.inc.php
+END
+print-interface-graphs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-interface-graphs.inc.php
+END
+print-vm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3020/observer/trunk/html/includes/print-vm.inc.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/352/observer/trunk/html/includes/.htaccess
+END
+authenticate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3270/observer/trunk/html/includes/authenticate.inc.php
+END
+status-summary.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4050/observer/trunk/html/includes/status-summary.inc.php
+END
+print-device-graph.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/includes/print-device-graph.php
+END

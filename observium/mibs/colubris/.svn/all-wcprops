@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris
+END
+colubris-cdp-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-cdp-mib.my
+END
+colubris-user-account-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-user-account-mib.my
+END
+colubris-wireless-client-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-wireless-client-mib.my
+END
+colubris-sensor-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-sensor-mib.my
+END
+colubris-device-event-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-event-mib.my
+END
+colubris-syslog-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-syslog-mib.my
+END
+colubris-bandwidth-control-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-bandwidth-control-mib.my
+END
+colubris-license-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-license-mib.my
+END
+colubris-maintenance-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-maintenance-mib.my
+END
+colubris-public-access-retention-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-public-access-retention-mib.my
+END
+colubris-virtual-ap-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-virtual-ap-mib.my
+END
+colubris-system-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-system-mib.my
+END
+colubris-usage-information-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-usage-information-mib.my
+END
+colubris-device-if-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-if-mib.my
+END
+colubris-vsc-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-vsc-mib.my
+END
+colubris-device-dot1x-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-dot1x-mib.my
+END
+colubris-aaa-client-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-aaa-client-mib.my
+END
+colubris-user-session-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-user-session-mib.my
+END
+colubris-satellite-management-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-satellite-management-mib.my
+END
+colubris-tools-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-tools-mib.my
+END
+colubris-tc.my
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-tc.my
+END
+colubris-tcp-serial-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-tcp-serial-mib.my
+END
+colubris-products-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-products-mib.my
+END
+colubris-ieee802dot11.my
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-ieee802dot11.my
+END
+colubris-connection-limiting-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-connection-limiting-mib.my
+END
+colubris-public-access-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-public-access-mib.my
+END
+colubris-client-tracking-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-client-tracking-mib.my
+END
+colubris-smi.my
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-smi.my
+END
+colubris-controller-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-controller-mib.my
+END
+colubris-802dot1x-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-802dot1x-mib.my
+END
+colubris-device-wireless-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-wireless-mib.my
+END
+colubris-device-wds-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-wds-mib.my
+END
+colubris-wds-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-wds-mib.my
+END
+colubris-device-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-device-mib.my
+END
+colubris-qos-mib.my
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/colubris/colubris-qos-mib.my
+END

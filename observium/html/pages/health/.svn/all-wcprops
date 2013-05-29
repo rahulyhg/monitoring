@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4024/observer/trunk/html/pages/health
+END
+frequency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/frequency.inc.php
+END
+voltage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/voltage.inc.php
+END
+current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/current.inc.php
+END
+dbm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2780/observer/trunk/html/pages/health/dbm.inc.php
+END
+storage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4024/observer/trunk/html/pages/health/storage.inc.php
+END
+fanspeed.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/fanspeed.inc.php
+END
+toner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/observer/trunk/html/pages/health/toner.inc.php
+END
+mempool.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4024/observer/trunk/html/pages/health/mempool.inc.php
+END
+humidity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/humidity.inc.php
+END
+power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2331/observer/trunk/html/pages/health/power.inc.php
+END
+sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4024/observer/trunk/html/pages/health/sensors.inc.php
+END
+temperature.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/html/pages/health/temperature.inc.php
+END
+processor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3956/observer/trunk/html/pages/health/processor.inc.php
+END

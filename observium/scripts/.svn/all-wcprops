@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4048/observer/trunk/scripts
+END
+nginx-stats
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1722/observer/trunk/scripts/nginx-stats
+END
+get-jpgraph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/441/observer/trunk/scripts/get-jpgraph.sh
+END
+mailscanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3240/observer/trunk/scripts/mailscanner.php
+END
+glue.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3941/observer/trunk/scripts/glue.py
+END
+get-geshi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/386/observer/trunk/scripts/get-geshi.sh
+END
+removespikes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3569/observer/trunk/scripts/removespikes.pl
+END
+observium_agent
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3976/observer/trunk/scripts/observium_agent
+END
+COPYING-glue.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3942/observer/trunk/scripts/COPYING-glue.py
+END
+cron-hourly.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/667/observer/trunk/scripts/cron-hourly.sh
+END
+makecss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4048/observer/trunk/scripts/makecss.sh
+END
+makesprites.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3941/observer/trunk/scripts/makesprites.sh
+END
+postfix-queues
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2896/observer/trunk/scripts/postfix-queues
+END
+removespikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3935/observer/trunk/scripts/removespikes.php
+END
+distro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3953/observer/trunk/scripts/distro
+END
+rename-port-rrdfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3629/observer/trunk/scripts/rename-port-rrdfile.php
+END
+observium_agent_xinetd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3977/observer/trunk/scripts/observium_agent_xinetd
+END
+update-sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3240/observer/trunk/scripts/update-sql.php
+END
+cron-minute.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/440/observer/trunk/scripts/cron-minute.sh
+END
+cron.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1257/observer/trunk/scripts/cron.sh
+END
+geshi-ios.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1998/observer/trunk/scripts/geshi-ios.php
+END

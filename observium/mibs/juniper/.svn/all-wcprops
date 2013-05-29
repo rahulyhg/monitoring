@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper
+END
+mib-jnx-sp-nat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-sp-nat.txt
+END
+mib-jnx-ex-smi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ex-smi.txt
+END
+mib-jnx-atm-cos.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-atm-cos.txt
+END
+mib-jnx-js-if-ext.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-if-ext.txt
+END
+mib-jnx-lsys-sp-policy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-policy.txt
+END
+mib-jnx-ospfv3mib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ospfv3mib.txt
+END
+mib-jnx-pfe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pfe.txt
+END
+mib-jnx-util.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-util.txt
+END
+mib-jnx-chassis-fwdd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-chassis-fwdd.txt
+END
+mib-jnx-atm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-atm.txt
+END
+mib-jnx-sp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-sp.txt
+END
+mib-jnx-pppoe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pppoe.txt
+END
+mib-jnx-bfd-exp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-bfd-exp.txt
+END
+mib-jnx-lsys-sp-scheduler.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-scheduler.txt
+END
+mib-jnx-chassis-alarm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-chassis-alarm.txt
+END
+mib-jnx-pwatm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pwatm.txt
+END
+mib-jnx-lsys-sp-natconebind.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natconebind.txt
+END
+mib-jnx-exp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-exp.txt
+END
+mib-jnx-vpls-generic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-vpls-generic.txt
+END
+mib-jnx-lsys-sp-cpu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-cpu.txt
+END
+mib-jnx-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-mac.txt
+END
+mib-jnx-otn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-otn.txt
+END
+mib-jnx-vpls-ldp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-vpls-ldp.txt
+END
+mib-jnx-js-smi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-smi.txt
+END
+mib-jnx-sipcommon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-sipcommon.txt
+END
+mib-jnx-mag.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-mag.txt
+END
+mib-jnx-virtualchassis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-virtualchassis.txt
+END
+mib-jnx-js-spu-monitoring.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-spu-monitoring.txt
+END
+mib-jnx-jdhcpv6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-jdhcpv6.txt
+END
+mib-jnx-hostresources.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-hostresources.txt
+END
+mib-jnx-js-policy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-policy.txt
+END
+mib-jnx-pmon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pmon.txt
+END
+mib-jnx-mimstp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-mimstp.txt
+END
+mib-jnx-dcu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-dcu.txt
+END
+mib-jnx-l2cp-features.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-l2cp-features.txt
+END
+mib-jnx-traceroute.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-traceroute.txt
+END
+mib-jnx-lsys-sp-flowsess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-flowsess.txt
+END
+mib-jnx-dom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-dom.txt
+END
+mib-jnx-lsys-sp-flowgate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-flowgate.txt
+END
+mib-jnx-js-utm-av.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-utm-av.txt
+END
+mib-jnx-cfgmgmt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-cfgmgmt.txt
+END
+mib-jnx-analyzer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-analyzer.txt
+END
+mib-jnx-js-screening.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-screening.txt
+END
+mib-jnx-smi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-smi.txt
+END
+mib-jnx-mpls-ldp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-mpls-ldp.txt
+END
+mib-jnx-js-packet-mirror.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-packet-mirror.txt
+END
+mib-jnx-chas-defines.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-chas-defines.txt
+END
+mib-jnx-chassis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-chassis.txt
+END
+mib-jnx-lsys-sp-natdstrule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natdstrule.txt
+END
+mib-jnx-ex-mac-notification.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ex-mac-notification.txt
+END
+mib-jnx-ipsec-flow-mon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ipsec-flow-mon.txt
+END
+mib-jnx-subscriber.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-subscriber.txt
+END
+mib-jnx-firewall.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-firewall.txt
+END
+mib-jnx-js-cert.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-cert.txt
+END
+mib-jnx-jwx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-jwx.txt
+END
+mib-jnx-lsys-sp-natsrcnopatad.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natsrcnopatad.txt
+END
+mib-jnx-js-auth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-auth.txt
+END
+mib-jnx-lsys-sp-natsrcpatad.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natsrcpatad.txt
+END
+mib-jnx-js-ipsec-vpn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-ipsec-vpn.txt
+END
+mib-jnx-ldp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ldp.txt
+END
+mib-jnx-syslog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-syslog.txt
+END
+mib-jnx-l2tp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-l2tp.txt
+END
+mib-jnx-jsrpd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-jsrpd.txt
+END
+mib-jnx-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-license.txt
+END
+mib-jnx-lsys-sp-zone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-zone.txt
+END
+mib-jnx-ive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ive.txt
+END
+mib-jnx-rpf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rpf.txt
+END
+mib-jnx-coll.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-coll.txt
+END
+mib-jnx-lsys-sp-natstaticrule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natstaticrule.txt
+END
+mib-jnx-lsys-sp-natsrcrule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natsrcrule.txt
+END
+mib-jnx-rsvp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rsvp.txt
+END
+mib-jnx-pwtdm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pwtdm.txt
+END
+mib-jnx-if-extensions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-if-extensions.txt
+END
+mib-jnx-lsys-sp-authentry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-authentry.txt
+END
+mib-jnx-js-nat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-nat.txt
+END
+mib-jnx-ipforward.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ipforward.txt
+END
+mib-jnx-l2ald.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-l2ald.txt
+END
+mib-jnx-rpm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rpm.txt
+END
+mib-jnx-user-aaa.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-user-aaa.txt
+END
+mib-jnx-ppp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ppp.txt
+END
+mib-jnx-lsys-sp-natdstpool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natdstpool.txt
+END
+mib-jnx-vlan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-vlan.txt
+END
+mib-jnx-rtm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rtm.txt
+END
+mib-jnx-lsys-sp-natpoipnum.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natpoipnum.txt
+END
+mib-jnx-power-supply-unit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-power-supply-unit.txt
+END
+mib-jnx-vpn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-vpn.txt
+END
+mib-jnx-lsys-sp-policywcnt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-policywcnt.txt
+END
+mib-jnx-rps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rps.txt
+END
+mib-jnx-secure-access-port.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-secure-access-port.txt
+END
+mib-jnx-ipsec-monitor-asp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ipsec-monitor-asp.txt
+END
+mib-jnx-mpls.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-mpls.txt
+END
+mib-jnx-rmon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-rmon.txt
+END
+mib-jnx-p2mp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-p2mp.txt
+END
+mib-jnx-pae-extension.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-pae-extension.txt
+END
+mib-jnx-lsys-securityprofile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-securityprofile.txt
+END
+mib-jnx-event.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-event.txt
+END
+mib-jnx-bgpmib2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-bgpmib2.txt
+END
+mib-jnx-ipv4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ipv4.txt
+END
+mib-jnx-cos.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-cos.txt
+END
+mib-jnx-ipv6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ipv6.txt
+END
+mib-jnx-js-idp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-idp.txt
+END
+mib-jnx-sonet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-sonet.txt
+END
+mib-jnx-jdhcp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-jdhcp.txt
+END
+mib-jnx-scu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-scu.txt
+END
+mib-jnx-vpls-bgp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-vpls-bgp.txt
+END
+mib-jnx-bfd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-bfd.txt
+END
+mib-jnx-lsys-sp-natsrcpool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-lsys-sp-natsrcpool.txt
+END
+mib-jnx-dfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-dfc.txt
+END
+mib-jnx-ping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-ping.txt
+END
+mib-jnx-js-dns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/juniper/mib-jnx-js-dns.txt
+END

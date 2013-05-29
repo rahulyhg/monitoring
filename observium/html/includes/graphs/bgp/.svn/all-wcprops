@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3169/observer/trunk/html/includes/graphs/bgp/auth.inc.php
+END
+prefixes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/bgp/prefixes.inc.php
+END
+updates.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/updates.inc.php
+END
+prefixes_ipv4vpn.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv4vpn.inc.php
+END
+prefixes_ipv4multicast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv4multicast.inc.php
+END
+prefixes_ipv6vpn.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv6vpn.inc.php
+END
+prefixes_ipv4unicast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv4unicast.inc.php
+END
+prefixes_ipv6multicast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv6multicast.inc.php
+END
+prefixes_ipv6unicast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3893/observer/trunk/html/includes/graphs/bgp/prefixes_ipv6unicast.inc.php
+END

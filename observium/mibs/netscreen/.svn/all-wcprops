@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen
+END
+NETSCREEN-INTERFACE-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-INTERFACE-MIB.mib
+END
+NETSCREEN-NSRP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-NSRP-MIB.mib
+END
+NETSCREEN-SET-GEN-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-SET-GEN-MIB.mib
+END
+NS-CHASSIS.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NS-CHASSIS.mib
+END
+NETSCREEN-PRODUCTS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-PRODUCTS-MIB.mib
+END
+NETSCREEN-SMI.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-SMI.mib
+END
+NETSCREEN-OSPF-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-OSPF-MIB.mib
+END
+NETSCREEN-RESOURCE-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NETSCREEN-RESOURCE-MIB.mib
+END
+NS-IP-ARP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/netscreen/NS-IP-ARP.mib
+END

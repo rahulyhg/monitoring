@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/voltages
+END
+routeros.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/voltages/routeros.inc.php
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3906/observer/trunk/includes/discovery/voltages/apc.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/ipoman.inc.php
+END
+sentry3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/voltages/sentry3.inc.php
+END
+supermicro.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/supermicro.inc.php
+END
+drac.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/voltages/drac.inc.php
+END
+areca.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/areca.inc.php
+END
+rfc1628.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/rfc1628.inc.php
+END
+gamatronicups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/voltages/gamatronicups.inc.php
+END
+netvision.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/voltages/netvision.inc.php
+END
+linux.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/linux.inc.php
+END
+xups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/voltages/xups.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3548/observer/trunk/includes/discovery/voltages/mgeups.inc.php
+END
+raritan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/voltages/raritan.inc.php
+END

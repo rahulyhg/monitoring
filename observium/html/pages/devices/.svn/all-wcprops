@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4024/observer/trunk/html/pages/devices
+END
+basic.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3935/observer/trunk/html/pages/devices/basic.inc.php
+END
+graph.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/observer/trunk/html/pages/devices/graph.inc.php
+END
+detail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3935/observer/trunk/html/pages/devices/detail.inc.php
+END
+status.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3935/observer/trunk/html/pages/devices/status.inc.php
+END

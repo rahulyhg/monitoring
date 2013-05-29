@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3548/observer/trunk/includes/discovery/frequencies
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3373/observer/trunk/includes/discovery/frequencies/apc.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/frequencies/ipoman.inc.php
+END
+rfc1628.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/frequencies/rfc1628.inc.php
+END
+netvision.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/frequencies/netvision.inc.php
+END
+xups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/frequencies/xups.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3548/observer/trunk/includes/discovery/frequencies/mgeups.inc.php
+END

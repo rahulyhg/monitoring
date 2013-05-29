@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3240/observer/trunk/html/includes/graphs/sensor/auth.inc.php
+END
+frequency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/frequency.inc.php
+END
+voltage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/voltage.inc.php
+END
+current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/current.inc.php
+END
+dbm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/dbm.inc.php
+END
+fanspeed.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/fanspeed.inc.php
+END
+humidity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/humidity.inc.php
+END
+power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/power.inc.php
+END
+temperature.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/sensor/temperature.inc.php
+END

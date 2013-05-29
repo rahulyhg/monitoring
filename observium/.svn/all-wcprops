@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4074/observer/trunk
+END
+alerts.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3827/observer/trunk/alerts.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3322/observer/trunk/LICENSE
+END
+poller.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3505/observer/trunk/poller.php
+END
+check-services.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3760/observer/trunk/check-services.php
+END
+config_to_json.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3558/observer/trunk/config_to_json.php
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3701/observer/trunk/CHANGELOG
+END
+delhost.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3150/observer/trunk/delhost.php
+END
+poll-device.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3150/observer/trunk/poll-device.php
+END
+snmptrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/observer/trunk/snmptrap.php
+END
+snmp.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2261/observer/trunk/snmp.conf.example
+END
+renamehost.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3150/observer/trunk/renamehost.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4002/observer/trunk/README
+END
+discovery.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3670/observer/trunk/discovery.php
+END
+snmpd.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2261/observer/trunk/snmpd.conf.example
+END
+billing-calculate.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3150/observer/trunk/billing-calculate.php
+END
+poller-wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4068/observer/trunk/poller-wrapper.py
+END
+irc.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3816/observer/trunk/irc.php
+END
+syslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3150/observer/trunk/syslog.php
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3103/observer/trunk/INSTALL
+END
+poll-billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3520/observer/trunk/poll-billing.php
+END
+addhost.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3589/observer/trunk/addhost.php
+END
+adduser.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3599/observer/trunk/adduser.php
+END
+check-errors.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3240/observer/trunk/check-errors.php
+END
+config.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3965/observer/trunk/config.php.default
+END

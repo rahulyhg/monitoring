@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/current
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/current/apc.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/current/ipoman.inc.php
+END
+sentry3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3239/observer/trunk/includes/discovery/current/sentry3.inc.php
+END
+drac.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/current/drac.inc.php
+END
+junos-dom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/current/junos-dom.inc.php
+END
+rfc1628.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/current/rfc1628.inc.php
+END
+brocade-dom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/current/brocade-dom.inc.php
+END
+gamatronicups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/current/gamatronicups.inc.php
+END
+netvision.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2643/observer/trunk/includes/discovery/current/netvision.inc.php
+END
+xups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/current/xups.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3548/observer/trunk/includes/discovery/current/mgeups.inc.php
+END
+raritan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3292/observer/trunk/includes/discovery/current/raritan.inc.php
+END

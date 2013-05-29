@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4024/observer/trunk/html/pages/routing
+END
+overview.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2970/observer/trunk/html/pages/routing/overview.inc.php
+END
+ospf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/observer/trunk/html/pages/routing/ospf.inc.php
+END
+bgp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/observer/trunk/html/pages/routing/bgp.inc.php
+END
+cef.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2211/observer/trunk/html/pages/routing/cef.inc.php
+END
+vrf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/observer/trunk/html/pages/routing/vrf.inc.php
+END

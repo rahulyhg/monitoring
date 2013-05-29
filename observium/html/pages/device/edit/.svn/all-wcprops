@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4038/observer/trunk/html/pages/device/edit
+END
+delete.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3923/observer/trunk/html/pages/device/edit/delete.inc.php
+END
+apps.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3874/observer/trunk/html/pages/device/edit/apps.inc.php
+END
+services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2332/observer/trunk/html/pages/device/edit/services.inc.php
+END
+ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4038/observer/trunk/html/pages/device/edit/ports.inc.php
+END
+icon.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3147/observer/trunk/html/pages/device/edit/icon.inc.php
+END
+modules.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/edit/modules.inc.php
+END
+alerts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3874/observer/trunk/html/pages/device/edit/alerts.inc.php
+END
+sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/edit/sensors.inc.php
+END
+snmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/edit/snmp.inc.php
+END
+ssh.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3962/observer/trunk/html/pages/device/edit/ssh.inc.php
+END
+ipmi.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3874/observer/trunk/html/pages/device/edit/ipmi.inc.php
+END
+device.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3932/observer/trunk/html/pages/device/edit/device.inc.php
+END

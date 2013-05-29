@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3971/observer/trunk/includes/polling/applications
+END
+apache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3315/observer/trunk/includes/polling/applications/apache.inc.php
+END
+nginx.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3240/observer/trunk/includes/polling/applications/nginx.inc.php
+END
+zimbra.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3971/observer/trunk/includes/polling/applications/zimbra.inc.php
+END
+nfs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/nfs.inc.php
+END
+exim-mailqueue.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3851/observer/trunk/includes/polling/applications/exim-mailqueue.inc.php
+END
+freeradius.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/freeradius.inc.php
+END
+postgresql.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/postgresql.php
+END
+mailscanner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3240/observer/trunk/includes/polling/applications/mailscanner.inc.php
+END
+powerdns.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/powerdns.inc.php
+END
+postgresql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/postgresql.inc.php
+END
+powerdns-recursor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/powerdns-recursor.inc.php
+END
+mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/mysql.inc.php
+END
+ntpd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/ntpd.inc.php
+END
+memcached.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3326/observer/trunk/includes/polling/applications/memcached.inc.php
+END
+ntpd-server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3240/observer/trunk/includes/polling/applications/ntpd-server.inc.php
+END
+unbound.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3746/observer/trunk/includes/polling/applications/unbound.inc.php
+END
+drbd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3362/observer/trunk/includes/polling/applications/drbd.inc.php
+END
+ntp-client.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3240/observer/trunk/includes/polling/applications/ntp-client.inc.php
+END
+shoutcast.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3739/observer/trunk/includes/polling/applications/shoutcast.inc.php
+END
+postfix_mailgraph.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3658/observer/trunk/includes/polling/applications/postfix_mailgraph.inc.php
+END

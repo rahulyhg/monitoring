@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link
+END
+singleip.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/singleip.mib
+END
+swprimgmt-des30xxp-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/swprimgmt-des30xxp-mib.mib
+END
+dhcprelay.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/dhcprelay.mib
+END
+timerange.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/timerange.mib
+END
+syslog.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/syslog.mib
+END
+dosprev.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/dosprev.mib
+END
+poe.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/poe.mib
+END
+mstp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/mstp.mib
+END
+smtp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/smtp.mib
+END
+aac.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/aac.mib
+END
+dot1xmgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/dot1xmgmt.mib
+END
+ipmacbind.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/ipmacbind.mib
+END
+des3028-l2mgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/des3028-l2mgmt.mib
+END
+sslmib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/sslmib.mib
+END
+cablediag.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/cablediag.mib
+END
+mldsnp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/mldsnp.mib
+END
+ssh.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/ssh.mib
+END
+genmgmt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/genmgmt.mib
+END
+time.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/time.mib
+END
+acl.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/acl.mib
+END
+safeguard.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/safeguard.mib
+END
+auth.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/auth.mib
+END
+lag.mib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/lag.mib
+END
+dlink-id-rec-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/dlink-id-rec-mib.mib
+END
+qinq.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/qinq.mib
+END
+pktstormctrl.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/d-link/pktstormctrl.mib
+END

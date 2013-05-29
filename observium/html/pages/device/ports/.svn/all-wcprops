@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3911/observer/trunk/html/pages/device/ports
+END
+arp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/ports/arp.inc.php
+END
+adsl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3911/observer/trunk/html/pages/device/ports/adsl.inc.php
+END
+neighbours.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3639/observer/trunk/html/pages/device/ports/neighbours.inc.php
+END
+fdb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/ports/fdb.inc.php
+END
+map.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3573/observer/trunk/html/pages/device/ports/map.inc.php
+END

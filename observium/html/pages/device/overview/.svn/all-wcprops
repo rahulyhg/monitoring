@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4061/observer/trunk/html/pages/device/overview
+END
+processors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/overview/processors.inc.php
+END
+storage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/overview/storage.inc.php
+END
+information.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/overview/information.inc.php
+END
+ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4038/observer/trunk/html/pages/device/overview/ports.inc.php
+END
+toner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/overview/toner.inc.php
+END
+ucd_mem.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4061/observer/trunk/html/pages/device/overview/ucd_mem.inc.php
+END
+mempools.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/overview/mempools.inc.php
+END
+c6kxbar.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3929/observer/trunk/html/pages/device/overview/c6kxbar.inc.php
+END

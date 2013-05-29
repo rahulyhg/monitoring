@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4071/observer/trunk/html/includes/graphs/device
+END
+current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2171/observer/trunk/html/includes/graphs/device/current.inc.php
+END
+nfsen_packets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/nfsen_packets.inc.php
+END
+pagecount.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3774/observer/trunk/html/includes/graphs/device/pagecount.inc.php
+END
+imagingdrums.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3779/observer/trunk/html/includes/graphs/device/imagingdrums.inc.php
+END
+diskio_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/diskio_common.inc.php
+END
+netscalersvc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalersvc.inc.php
+END
+smokeping_all_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3240/observer/trunk/html/includes/graphs/device/smokeping_all_common.inc.php
+END
+power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2247/observer/trunk/html/includes/graphs/device/power.inc.php
+END
+netscalersvc_conns.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netscalersvc_conns.inc.php
+END
+netscalersvc_pkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalersvc_pkts.inc.php
+END
+ping.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/ping.inc.php
+END
+agent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3156/observer/trunk/html/includes/graphs/device/agent.inc.php
+END
+frequency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2739/observer/trunk/html/includes/graphs/device/frequency.inc.php
+END
+netscalervsvr_hitmiss.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netscalervsvr_hitmiss.inc.php
+END
+bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/device/bits.inc.php
+END
+ucd_contexts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3154/observer/trunk/html/includes/graphs/device/ucd_contexts.inc.php
+END
+netscalervsvr_pkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalervsvr_pkts.inc.php
+END
+fdb_count.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2556/observer/trunk/html/includes/graphs/device/fdb_count.inc.php
+END
+netscaler_tcp_conn.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3510/observer/trunk/html/includes/graphs/device/netscaler_tcp_conn.inc.php
+END
+imagingdrum.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3779/observer/trunk/html/includes/graphs/device/imagingdrum.inc.php
+END
+smokeping_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3005/observer/trunk/html/includes/graphs/device/smokeping_common.inc.php
+END
+nfsen_traffic.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/nfsen_traffic.inc.php
+END
+smokeping_out_all_avg.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2706/observer/trunk/html/includes/graphs/device/smokeping_out_all_avg.inc.php
+END
+ksm_pages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3378/observer/trunk/html/includes/graphs/device/ksm_pages.inc.php
+END
+smokeping_in_all.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2625/observer/trunk/html/includes/graphs/device/smokeping_in_all.inc.php
+END
+ucd_load.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/ucd_load.inc.php
+END
+juniperive_connections.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3456/observer/trunk/html/includes/graphs/device/juniperive_connections.inc.php
+END
+nfsen_flows.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/device/nfsen_flows.inc.php
+END
+netapp_net_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/netapp_net_io.inc.php
+END
+netstat_arista_sw_ip.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netstat_arista_sw_ip.inc.php
+END
+netapp_tape_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/netapp_tape_io.inc.php
+END
+collectd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2643/observer/trunk/html/includes/graphs/device/collectd.inc.php
+END
+ping_snmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/ping_snmp.inc.php
+END
+fortigate_cpu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2986/observer/trunk/html/includes/graphs/device/fortigate_cpu.inc.php
+END
+ucd_swap_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/device/ucd_swap_io.inc.php
+END
+temperature.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2171/observer/trunk/html/includes/graphs/device/temperature.inc.php
+END
+netstat_snmp_pkt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3160/observer/trunk/html/includes/graphs/device/netstat_snmp_pkt.inc.php
+END
+ipsystemstats_ipv4.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3454/observer/trunk/html/includes/graphs/device/ipsystemstats_ipv4.inc.php
+END
+hr_processes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/device/hr_processes.inc.php
+END
+ipsystemstats_ipv6_frag.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/device/ipsystemstats_ipv6_frag.inc.php
+END
+ipsystemstats_ipv6.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/ipsystemstats_ipv6.inc.php
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3169/observer/trunk/html/includes/graphs/device/auth.inc.php
+END
+netscalervsvr_conns.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalervsvr_conns.inc.php
+END
+juniperive_storage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3456/observer/trunk/html/includes/graphs/device/juniperive_storage.inc.php
+END
+netstat_ip_frag.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/device/netstat_ip_frag.inc.php
+END
+sensor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3519/observer/trunk/html/includes/graphs/device/sensor.inc.php
+END
+ucd_interrupts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3154/observer/trunk/html/includes/graphs/device/ucd_interrupts.inc.php
+END
+fortigate_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2802/observer/trunk/html/includes/graphs/device/fortigate_sessions.inc.php
+END
+netstat_arista_sw_ip6_frag.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3469/observer/trunk/html/includes/graphs/device/netstat_arista_sw_ip6_frag.inc.php
+END
+netstat_arista_sw_ip6.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3469/observer/trunk/html/includes/graphs/device/netstat_arista_sw_ip6.inc.php
+END
+netscalersvc_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalersvc_bits.inc.php
+END
+wifi_clients.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/device/wifi_clients.inc.php
+END
+ucd_cpu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/device/ucd_cpu.inc.php
+END
+netscalervsvr_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalervsvr_bits.inc.php
+END
+fuser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3779/observer/trunk/html/includes/graphs/device/fuser.inc.php
+END
+fanspeed.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2171/observer/trunk/html/includes/graphs/device/fanspeed.inc.php
+END
+toner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3260/observer/trunk/html/includes/graphs/device/toner.inc.php
+END
+netscaler_tcp_pkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2819/observer/trunk/html/includes/graphs/device/netscaler_tcp_pkts.inc.php
+END
+smokeping_all_common_avg.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3240/observer/trunk/html/includes/graphs/device/smokeping_all_common_avg.inc.php
+END
+netstat_udp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_udp.inc.php
+END
+hr_users.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/hr_users.inc.php
+END
+wastebox.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3779/observer/trunk/html/includes/graphs/device/wastebox.inc.php
+END
+ipSystemStats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/ipSystemStats.inc.php
+END
+cipsec_flow_pkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2534/observer/trunk/html/includes/graphs/device/cipsec_flow_pkts.inc.php
+END
+voltage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2171/observer/trunk/html/includes/graphs/device/voltage.inc.php
+END
+dbm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2780/observer/trunk/html/includes/graphs/device/dbm.inc.php
+END
+ucd_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/device/ucd_io.inc.php
+END
+diskio_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2643/observer/trunk/html/includes/graphs/device/diskio_bits.inc.php
+END
+processor_stack.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2534/observer/trunk/html/includes/graphs/device/processor_stack.inc.php
+END
+transferroller.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3779/observer/trunk/html/includes/graphs/device/transferroller.inc.php
+END
+cipsec_flow_tunnels.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3068/observer/trunk/html/includes/graphs/device/cipsec_flow_tunnels.inc.php
+END
+panos_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/panos_sessions.inc.php
+END
+smokeping_in_all_avg.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2706/observer/trunk/html/includes/graphs/device/smokeping_in_all_avg.inc.php
+END
+screenos_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/screenos_sessions.inc.php
+END
+mempool.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3817/observer/trunk/html/includes/graphs/device/mempool.inc.php
+END
+poller_perf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/poller_perf.inc.php
+END
+cipsec_flow_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2534/observer/trunk/html/includes/graphs/device/cipsec_flow_stats.inc.php
+END
+smokeping_out_all.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2625/observer/trunk/html/includes/graphs/device/smokeping_out_all.inc.php
+END
+cras_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3237/observer/trunk/html/includes/graphs/device/cras_sessions.inc.php
+END
+sla.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3374/observer/trunk/html/includes/graphs/device/sla.inc.php
+END
+processor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/device/processor.inc.php
+END
+vpdn_tunnels_l2tp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/vpdn_tunnels_l2tp.inc.php
+END
+arubacontroller_numaps.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/arubacontroller_numaps.inc.php
+END
+nfsen_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4071/observer/trunk/html/includes/graphs/device/nfsen_common.inc.php
+END
+diskio.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1906/observer/trunk/html/includes/graphs/device/diskio.inc.php
+END
+status.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3310/observer/trunk/html/includes/graphs/device/status.inc.php
+END
+netstat_arista_sw_ip_frag.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netstat_arista_sw_ip_frag.inc.php
+END
+netscalersvc_reqs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netscalersvc_reqs.inc.php
+END
+netstat_tcp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_tcp.inc.php
+END
+netapp_disk_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/netapp_disk_io.inc.php
+END
+netstat_icmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_icmp.inc.php
+END
+netscalervsvr_reqs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/netscalervsvr_reqs.inc.php
+END
+humidity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2279/observer/trunk/html/includes/graphs/device/humidity.inc.php
+END
+ipsystemstats_ipv4_frag.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3330/observer/trunk/html/includes/graphs/device/ipsystemstats_ipv4_frag.inc.php
+END
+vpdn_sessions_l2tp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/vpdn_sessions_l2tp.inc.php
+END
+arubacontroller_numclients.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/device/arubacontroller_numclients.inc.php
+END
+netscalervsvr.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3508/observer/trunk/html/includes/graphs/device/netscalervsvr.inc.php
+END
+juniperive_users.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3456/observer/trunk/html/includes/graphs/device/juniperive_users.inc.php
+END
+uptime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3832/observer/trunk/html/includes/graphs/device/uptime.inc.php
+END
+ucd_memory.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4058/observer/trunk/html/includes/graphs/device/ucd_memory.inc.php
+END
+processor_separate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2534/observer/trunk/html/includes/graphs/device/processor_separate.inc.php
+END
+diskio_ops.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2534/observer/trunk/html/includes/graphs/device/diskio_ops.inc.php
+END
+storage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/storage.inc.php
+END
+netstat_icmp_info.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_icmp_info.inc.php
+END
+netscaler_tcp_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/device/netscaler_tcp_bits.inc.php
+END
+netapp_ops.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3827/observer/trunk/html/includes/graphs/device/netapp_ops.inc.php
+END
+netstat_ip.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_ip.inc.php
+END
+juniperive_meetings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3456/observer/trunk/html/includes/graphs/device/juniperive_meetings.inc.php
+END
+cipsec_flow_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/device/cipsec_flow_bits.inc.php
+END
+netstat_snmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/device/netstat_snmp.inc.php
+END

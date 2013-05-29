@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3855/observer/trunk/html/includes/graphs/port
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/auth.inc.php
+END
+bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/port/bits.inc.php
+END
+adsl_speed.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/adsl_speed.inc.php
+END
+nupkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/nupkts.inc.php
+END
+adsl_snr.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/adsl_snr.inc.php
+END
+upkts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3848/observer/trunk/html/includes/graphs/port/upkts.inc.php
+END
+adsl_attainable.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/adsl_attainable.inc.php
+END
+pagp_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/pagp_bits.inc.php
+END
+mac_acc_total.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3855/observer/trunk/html/includes/graphs/port/mac_acc_total.inc.php
+END
+errors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3436/observer/trunk/html/includes/graphs/port/errors.inc.php
+END
+etherlike.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/etherlike.inc.php
+END
+adsl_attenuation.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/adsl_attenuation.inc.php
+END
+adsl_power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3628/observer/trunk/html/includes/graphs/port/adsl_power.inc.php
+END

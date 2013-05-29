@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4069/observer/trunk/html/pages/device
+END
+vm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/vm.inc.php
+END
+entphysical.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2690/observer/trunk/html/pages/device/entphysical.inc.php
+END
+services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3134/observer/trunk/html/pages/device/services.inc.php
+END
+vlans.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2970/observer/trunk/html/pages/device/vlans.inc.php
+END
+port.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4038/observer/trunk/html/pages/device/port.inc.php
+END
+graphs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3685/observer/trunk/html/pages/device/graphs.inc.php
+END
+edit.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3962/observer/trunk/html/pages/device/edit.inc.php
+END
+munin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/munin.inc.php
+END
+routing.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/routing.inc.php
+END
+collectd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/collectd.inc.php
+END
+hrdevice.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/hrdevice.inc.php
+END
+printing.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3779/observer/trunk/html/pages/device/printing.inc.php
+END
+alerts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/alerts.inc.php
+END
+perf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/perf.inc.php
+END
+accesspoints.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/accesspoints.inc.php
+END
+latency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3912/observer/trunk/html/pages/device/latency.inc.php
+END
+slas.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3374/observer/trunk/html/pages/device/slas.inc.php
+END
+apps.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/apps.inc.php
+END
+logs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4069/observer/trunk/html/pages/device/logs.inc.php
+END
+health.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/health.inc.php
+END
+overview.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3974/observer/trunk/html/pages/device/overview.inc.php
+END
+showconfig.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3714/observer/trunk/html/pages/device/showconfig.inc.php
+END
+loadbalancer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/loadbalancer.inc.php
+END
+ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4038/observer/trunk/html/pages/device/ports.inc.php
+END
+nfsen.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3372/observer/trunk/html/pages/device/nfsen.inc.php
+END
+pseudowires.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/pseudowires.inc.php
+END
+accesspoint.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/accesspoint.inc.php
+END
+packages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3615/observer/trunk/html/pages/device/packages.inc.php
+END

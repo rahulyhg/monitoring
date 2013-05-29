@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4059/observer/trunk/sql-schema
+END
+030.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3309/observer/trunk/sql-schema/030.sql
+END
+031.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3358/observer/trunk/sql-schema/031.sql
+END
+032.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/032.sql
+END
+033.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/033.sql
+END
+034.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3392/observer/trunk/sql-schema/034.sql
+END
+070.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4059/observer/trunk/sql-schema/070.sql
+END
+035.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3407/observer/trunk/sql-schema/035.sql
+END
+036.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3420/observer/trunk/sql-schema/036.sql
+END
+037.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3426/observer/trunk/sql-schema/037.sql
+END
+038.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/038.sql
+END
+039.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3440/observer/trunk/sql-schema/039.sql
+END
+001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3367/observer/trunk/sql-schema/001.sql
+END
+002.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/002.sql
+END
+003.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/003.sql
+END
+040.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3483/observer/trunk/sql-schema/040.sql
+END
+004.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/004.sql
+END
+041.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3512/observer/trunk/sql-schema/041.sql
+END
+005.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/005.sql
+END
+042.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3514/observer/trunk/sql-schema/042.sql
+END
+006.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3169/observer/trunk/sql-schema/006.sql
+END
+043.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/043.sql
+END
+007.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3609/observer/trunk/sql-schema/007.sql
+END
+044.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3533/observer/trunk/sql-schema/044.sql
+END
+008.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2911/observer/trunk/sql-schema/008.sql
+END
+045.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3655/observer/trunk/sql-schema/045.sql
+END
+009.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2911/observer/trunk/sql-schema/009.sql
+END
+046.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3655/observer/trunk/sql-schema/046.sql
+END
+047.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3701/observer/trunk/sql-schema/047.sql
+END
+048.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3710/observer/trunk/sql-schema/048.sql
+END
+049.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3720/observer/trunk/sql-schema/049.sql
+END
+010.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2916/observer/trunk/sql-schema/010.sql
+END
+011.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2926/observer/trunk/sql-schema/011.sql
+END
+012.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3002/observer/trunk/sql-schema/012.sql
+END
+013.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3102/observer/trunk/sql-schema/013.sql
+END
+014.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3088/observer/trunk/sql-schema/014.sql
+END
+050.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3722/observer/trunk/sql-schema/050.sql
+END
+015.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3096/observer/trunk/sql-schema/015.sql
+END
+051.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3748/observer/trunk/sql-schema/051.sql
+END
+016.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3367/observer/trunk/sql-schema/016.sql
+END
+052.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3757/observer/trunk/sql-schema/052.sql
+END
+017.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3120/observer/trunk/sql-schema/017.sql
+END
+053.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3763/observer/trunk/sql-schema/053.sql
+END
+054.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3763/observer/trunk/sql-schema/054.sql
+END
+018.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3121/observer/trunk/sql-schema/018.sql
+END
+019.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3138/observer/trunk/sql-schema/019.sql
+END
+055.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3795/observer/trunk/sql-schema/055.sql
+END
+056.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3816/observer/trunk/sql-schema/056.sql
+END
+057.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3819/observer/trunk/sql-schema/057.sql
+END
+058.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3836/observer/trunk/sql-schema/058.sql
+END
+059.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3837/observer/trunk/sql-schema/059.sql
+END
+020.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3158/observer/trunk/sql-schema/020.sql
+END
+021.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3191/observer/trunk/sql-schema/021.sql
+END
+022.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3195/observer/trunk/sql-schema/022.sql
+END
+023.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3199/observer/trunk/sql-schema/023.sql
+END
+060.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3858/observer/trunk/sql-schema/060.sql
+END
+024.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3209/observer/trunk/sql-schema/024.sql
+END
+061.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3859/observer/trunk/sql-schema/061.sql
+END
+025.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3210/observer/trunk/sql-schema/025.sql
+END
+062.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3888/observer/trunk/sql-schema/062.sql
+END
+026.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3367/observer/trunk/sql-schema/026.sql
+END
+063.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3893/observer/trunk/sql-schema/063.sql
+END
+027.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3243/observer/trunk/sql-schema/027.sql
+END
+064.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3925/observer/trunk/sql-schema/064.sql
+END
+028.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3367/observer/trunk/sql-schema/028.sql
+END
+029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3308/observer/trunk/sql-schema/029.sql
+END
+065.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3932/observer/trunk/sql-schema/065.sql
+END
+066.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3944/observer/trunk/sql-schema/066.sql
+END
+067.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3950/observer/trunk/sql-schema/067.sql
+END
+068.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3961/observer/trunk/sql-schema/068.sql
+END
+069.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4040/observer/trunk/sql-schema/069.sql
+END

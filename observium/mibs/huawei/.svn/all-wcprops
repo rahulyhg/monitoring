@@ -1,0 +1,965 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei
+END
+HUAWEI-ACL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ACL
+END
+HUAWEI-RIPv2-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RIPv2-EXT
+END
+HUAWEI-MPLS-EXTEND
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MPLS-EXTEND
+END
+HUAWEI-BRAS-DPI
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-DPI
+END
+HUAWEI-BRAS-GRE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-GRE
+END
+HUAWEI-VLL-STATISTIC
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VLL-STATISTIC
+END
+HUAWEI
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI
+END
+HUAWEI-ALARM-RELIABILITY
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ALARM-RELIABILITY
+END
+HUAWEI-PTP
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PTP
+END
+HUAWEI-RPR
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RPR
+END
+HUAWEI-FR-QOS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-FR-QOS
+END
+HUAWEI-DHCP-SNOOPING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DHCP-SNOOPING
+END
+HUAWEI-L2MAM
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2MAM
+END
+HUAWEI-VPN-DIAGNOSTICS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VPN-DIAGNOSTICS
+END
+HUAWEI-MPLSLDP
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MPLSLDP
+END
+HUAWEI-BRAS-SRVCFG-INTERFACE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-SRVCFG-INTERFACE
+END
+HUAWEI-BGP-GR
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BGP-GR
+END
+HUAWEI-PWE3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PWE3
+END
+HUAWEI-PIM-BSR.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PIM-BSR.MIB
+END
+HUAWEI-NAT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-NAT
+END
+HUAWEI-RRPP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RRPP
+END
+HUAWEI-IPHC
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IPHC
+END
+HUAWEI-VRRP-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VRRP-EXT
+END
+HUAWEI-XQoS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-XQoS
+END
+HUAWEI-HGMP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-HGMP
+END
+HUAWEI-MACBIND
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MACBIND
+END
+HUAWEI-L2VLAN
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2VLAN
+END
+HUAWEI-DEVICE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DEVICE
+END
+HUAWEI-BGP-ACCOUNTING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BGP-ACCOUNTING
+END
+HUAWEI-IF-EXT.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IF-EXT.MIB
+END
+HUAWEI-L2MULTICAST
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2MULTICAST
+END
+HUAWEI-SMARTLINK
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SMARTLINK
+END
+HUAWEI-DISMAN-PING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DISMAN-PING
+END
+HUAWEI-QINQ
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-QINQ
+END
+HUAWEI-MIRROR
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MIRROR
+END
+HUAWEI-RM-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RM-EXT
+END
+HUAWEI-ATK
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ATK
+END
+HUAWEI-ATM
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ATM
+END
+HUAWEI-BRAS-RUI
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-RUI
+END
+HUAWEI-CPU
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CPU
+END
+HUAWEI-SYS-MAN
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SYS-MAN
+END
+HUAWEI-BRAS-QOS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-QOS
+END
+HUAWEI-SMAP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SMAP
+END
+HUAWEI-L2VPN
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2VPN
+END
+HUAWEI-LOOPDETECT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-LOOPDETECT
+END
+HUAWEI-KOMPELLA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-KOMPELLA
+END
+HUAWEI-RBRP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RBRP
+END
+HUAWEI-IMA
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IMA
+END
+HUAWEI-SECURITY
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SECURITY
+END
+HUAWEI-PWE3-TNL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PWE3-TNL
+END
+HUAWEI-SNMP-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SNMP-EXT
+END
+HUAWEI-ETHOAM
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ETHOAM
+END
+HUAWEI-PGI
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PGI
+END
+HUAWEI-HTTP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-HTTP
+END
+HUAWEI-VPLS-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VPLS-EXT
+END
+HUAWEI-CE-PING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CE-PING
+END
+HUAWEI-SLOG-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SLOG-EUDM
+END
+HUAWEI-DEVICE-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DEVICE-EXT
+END
+HUAWEI-MC-TRUNK
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MC-TRUNK
+END
+HUAWEI-L3VPN-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L3VPN-EXT
+END
+HUAWEI-MULTICAST
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MULTICAST
+END
+HUAWEI-FLASH-MAN
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-FLASH-MAN
+END
+HUAWEI-BRAS-L2TP
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-L2TP
+END
+HUAWEI-CBQOS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CBQOS
+END
+HUAWEI-MFF
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MFF
+END
+HUAWEI-MPLSOAM
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MPLSOAM
+END
+HUAWEI-VGMP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VGMP
+END
+HUAWEI-NAT-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-NAT-EUDM
+END
+HUAWEI-IPSESSION
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IPSESSION
+END
+HUAWEI-MODULE-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MODULE-INFO
+END
+HUAWEI-OSPFV2
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-OSPFV2
+END
+HUAWEI-L2TP-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2TP-EXT
+END
+HUAWEI-BLS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BLS
+END
+HUAWEI-OSPFV3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-OSPFV3
+END
+HUAWEI-USERLOG
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-USERLOG
+END
+HUAWEI-CCC
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CCC
+END
+HUAWEI-FTP
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-FTP
+END
+HUAWEI-ALARM
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ALARM
+END
+HUAWEI-PPP
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PPP
+END
+HUAWEI-EPON
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-EPON
+END
+HUAWEI-BRAS-SRVCFG-STATICUSER
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-SRVCFG-STATICUSER
+END
+HUAWEI-TAD
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TAD
+END
+HUAWEI-TRNG
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TRNG
+END
+HUAWEI-TUNNEL-TE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TUNNEL-TE
+END
+HUAWEI-CDP-COMPLIANCE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CDP-COMPLIANCE
+END
+HUAWEI-ENTITY-EXTENT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ENTITY-EXTENT
+END
+HUAWEI-ASPF-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ASPF-EUDM
+END
+HUAWEI-MAC-AUTHEN
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MAC-AUTHEN
+END
+HUAWEI-VPLS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VPLS
+END
+HUAWEI-BFD
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BFD
+END
+HUAWEI-SSH
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SSH
+END
+HUAWEI-SECSTAT-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SECSTAT-EUDM
+END
+HUAWEI-L3VLAN
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L3VLAN
+END
+HUAWEI-IPMCAST
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IPMCAST
+END
+HUAWEI-MINM
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MINM
+END
+HUAWEI-SECSTAT-IP-MONITOR
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SECSTAT-IP-MONITOR
+END
+HUAWEI-IPPOOL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IPPOOL
+END
+HUAWEI-NETSTREAM
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-NETSTREAM
+END
+HUAWEI-LI
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-LI
+END
+HUAWEI-TC
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TC
+END
+HUAWEI-ATK-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ATK-EUDM
+END
+HUAWEI-MGMD-STD
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MGMD-STD
+END
+HUAWEI-BRAS-SRVCFG-EAP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-SRVCFG-EAP
+END
+HUAWEI-SUPERLAG
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SUPERLAG
+END
+HUAWEI-AAA
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-AAA
+END
+HUAWEI-APS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-APS
+END
+HUAWEI-DLDP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DLDP
+END
+HUAWEI-GTL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-GTL
+END
+HUAWEI-BULKSTAT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BULKSTAT
+END
+HUAWEI-BRAS-MULTICAST
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-MULTICAST
+END
+HUAWEI-MPLSLSR-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MPLSLSR-EXT
+END
+HUAWEI-BRAS-IFNET
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-IFNET
+END
+HUAWEI-LLDP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-LLDP
+END
+HUAWEI-L2IF
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-L2IF
+END
+HUAWEI-DHCPR
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DHCPR
+END
+HUAWEI-PORTAL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PORTAL
+END
+HUAWEI-MA5200-DEVICE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MA5200-DEVICE
+END
+HUAWEI-DHCPS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DHCPS
+END
+HUAWEI-BRAS-MVLAN
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-MVLAN
+END
+HUAWEI-MFLP.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MFLP.MIB
+END
+HUAWEI-SECSTAT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SECSTAT
+END
+HUAWEI-INNER-LINK
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-INNER-LINK
+END
+HUAWEI-BGP-VPN
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BGP-VPN
+END
+HUAWEI-GTSM
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-GTSM
+END
+HUAWEI-MP
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MP
+END
+HUAWEI-PIM-STD
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PIM-STD
+END
+HUAWEI-CONFIG-MAN
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-CONFIG-MAN
+END
+HUAWEI-VPLS-TNL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VPLS-TNL
+END
+HUAWEI-TDM-PSN
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TDM-PSN
+END
+HUAWEI-IPV6
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IPV6
+END
+HUAWEI-PORT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PORT
+END
+HUAWEI-BRAS-USERVLAN
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-USERVLAN
+END
+HUAWEI-TCP
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TCP
+END
+HUAWEI-MPLSOAM-PS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MPLSOAM-PS
+END
+HUAWEI-BRAS-COPS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-COPS
+END
+HUAWEI-HWTACACS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-HWTACACS
+END
+HUAWEI-IF-QOS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-IF-QOS
+END
+HUAWEI-SZONE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SZONE
+END
+HUAWEI-BRAS-IPTN
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-IPTN
+END
+HUAWEI-PERFORMANCE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PERFORMANCE
+END
+HUAWEI-TASK
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-TASK
+END
+HUAWEI-MA5200
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MA5200
+END
+HUAWEI-MEMORY
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MEMORY
+END
+HUAWEI-VE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-VE
+END
+HUAWEI-HQOS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-HQOS
+END
+HUAWEI-BRAS-SRVCFG-DEVICEUSER
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-SRVCFG-DEVICEUSER
+END
+HUAWEI-BRAS-RADIUS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-RADIUS
+END
+HUAWEI-BRAS-VT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-VT
+END
+HUAWEI-BASE-TRAP
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BASE-TRAP
+END
+HUAWEI-LOAD-BACKUP
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-LOAD-BACKUP
+END
+HUAWEI-MSTP
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-MSTP
+END
+HUAWEI-LDT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-LDT
+END
+HUAWEI-ETHARP
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-ETHARP
+END
+HUAWEI-RSVPTE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-RSVPTE
+END
+HUAWEI-SYSLOG.MIB
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-SYSLOG.MIB
+END
+HUAWEI-BRAS-VSM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-VSM
+END
+HUAWEI-DC-TRAP
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-DC-TRAP
+END
+HUAWEI-BRAS-PPPoX
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-PPPoX
+END
+HUAWEI-BRAS-SBC
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-BRAS-SBC
+END
+HUAWEI-PFLT-EUDM
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2567/observer/trunk/mibs/huawei/HUAWEI-PFLT-EUDM
+END

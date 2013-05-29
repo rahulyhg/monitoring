@@ -1,0 +1,923 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2270/observer/trunk/mibs/aos
+END
+AlcatelIND1Ipms.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ipms.mib
+END
+AlcatelIND1DrcTm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1DrcTm.mib
+END
+IETF_INET_ADDRESS.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_INET_ADDRESS.mib
+END
+AlcatelIND1Mld.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Mld.mib
+END
+AlcatelIND1GVRP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1GVRP.mib
+END
+IETF_IPV6_FLOW_LABEL.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPV6_FLOW_LABEL.mib
+END
+AlcatelIND1Port.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Port.mib
+END
+AlcatelIND1TpDevices.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1TpDevices.mib
+END
+AlcatelIND1MacServer.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1MacServer.mib
+END
+AlcatelIND1VirtualRouter.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VirtualRouter.mib
+END
+AlcatelIND1Dot1Q.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Dot1Q.mib
+END
+IETF_SNMP_TARGET.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_TARGET.mib
+END
+IETF_MLD_STD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_MLD_STD.mib
+END
+AlcatelIND1LPS.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1LPS.mib
+END
+AlcatelIND1StackManager.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1StackManager.mib
+END
+IETF_PIM_BSR.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_PIM_BSR.mib
+END
+IETF_BRIDGE.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_BRIDGE.mib
+END
+IETF_IPV6_UDP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPV6_UDP.mib
+END
+IETF_IF.mib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IF.mib
+END
+TIMETRA-VRTR-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-VRTR-MIB.mib
+END
+AlcatelIND1Health.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Health.mib
+END
+AlcatelIND1PortMirMon.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1PortMirMon.mib
+END
+AlcatelIND1Iprm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Iprm.mib
+END
+AlcatelIND1IPMV.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1IPMV.mib
+END
+NOVELL_RIPSAP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/NOVELL_RIPSAP.mib
+END
+IETF_ISIS.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_ISIS.mib
+END
+IETF_ENTITY.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_ENTITY.mib
+END
+AlcatelIND1Eoam.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Eoam.mib
+END
+TIMETRA-MPLS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-MPLS-MIB.mib
+END
+AlcatelIND1UDPRelay.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1UDPRelay.mib
+END
+ANSI_TIA_LLDP_MED.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/ANSI_TIA_LLDP_MED.mib
+END
+AlcatelIND1VlanSTP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VlanSTP.mib
+END
+IETF_SNMP_NOTIFICATION.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_NOTIFICATION.mib
+END
+AlcatelIND1VRRP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VRRP.mib
+END
+AlcatelIND1SessionMgr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1SessionMgr.mib
+END
+AlcatelIND1Chassis.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Chassis.mib
+END
+IANA_RTPROTO.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IANA_RTPROTO.mib
+END
+IETF_802_1ag.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_802_1ag.mib
+END
+IEEE_LLDP_Dot1.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IEEE_LLDP_Dot1.mib
+END
+TIMETRA-QOS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-QOS-MIB.mib
+END
+IEEE_LLDP_Dot3.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IEEE_LLDP_Dot3.mib
+END
+AlcatelIND1Base.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Base.mib
+END
+AlcatelIND1ConfigMgr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1ConfigMgr.mib
+END
+IETF_IGMP_STD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IGMP_STD.mib
+END
+IETF_OSPF.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_OSPF.mib
+END
+NOVELL_IPX.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/NOVELL_IPX.mib
+END
+AlcatelIND1Ripng.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ripng.mib
+END
+IETF_P_BRIDGE.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_P_BRIDGE.mib
+END
+AlcatelIND1AAA.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1AAA.mib
+END
+IETF_SNMP_PROXY.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_PROXY.mib
+END
+AlcatelIND1VlanManager.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VlanManager.mib
+END
+TIMETRA-SDP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-SDP-MIB.mib
+END
+AlcatelIND1PortMapping.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1PortMapping.mib
+END
+AlcatelIND1QoS.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1QoS.mib
+END
+SFLOW_RFC3176.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/SFLOW_RFC3176.mib
+END
+AlcatelIND1VRRP3.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VRRP3.mib
+END
+AlcatelIND1Ns.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ns.mib
+END
+alcatel-ind1-dot3-oam-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-dot3-oam-mib.mib
+END
+alcatel-ind1-mvrp-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-mvrp-mib.mib
+END
+alcatel-static-frr-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-static-frr-mib.mib
+END
+AlcatelIND1VlanStacking.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1VlanStacking.mib
+END
+MPLS-TE-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/MPLS-TE-MIB.mib
+END
+alcatel-ind1-dhcp-srv-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-dhcp-srv-mib.mib
+END
+AlcatelIND1WebMgt.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1WebMgt.mib
+END
+TIMETRA-SERV-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-SERV-MIB.mib
+END
+AlcatelIND1Dvmrp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Dvmrp.mib
+END
+IETF_IPV6.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPV6.mib
+END
+TIMETRA-FILTER-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-FILTER-MIB.mib
+END
+AlcatelIND1Policy.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Policy.mib
+END
+TIMETRA-CHASSIS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-CHASSIS-MIB.mib
+END
+IETF_PIM_STD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_PIM_STD.mib
+END
+AaIETF_HUBMIB_POWER_ETHERNET_DRAFT.mib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AaIETF_HUBMIB_POWER_ETHERNET_DRAFT.mib
+END
+IEEE_LLDP_Base.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IEEE_LLDP_Base.mib
+END
+AlcatelIND1LicenseManager.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1LicenseManager.mib
+END
+AlcatelIND1Slb.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Slb.mib
+END
+IETF_SNMPv2_IP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMPv2_IP.mib
+END
+AlcatelIND1System.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1System.mib
+END
+TIMETRA-LDP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-LDP-MIB.mib
+END
+IANA-ADDRESS-FAMILY-NUMBERS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IANA-ADDRESS-FAMILY-NUMBERS-MIB.mib
+END
+dot3-oam-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/dot3-oam-mib.mib
+END
+IETF_MAU.mib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_MAU.mib
+END
+IETF_SNMP_VIEW_BASED_ACM.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_VIEW_BASED_ACM.mib
+END
+IETF_SNMP_FRAMEWORK.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_FRAMEWORK.mib
+END
+AlcatelIND1Dot1X.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Dot1X.mib
+END
+IETF_SNMPv2_TCP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMPv2_TCP.mib
+END
+AlcatelIND1Ipx.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ipx.mib
+END
+alcatel-ind1-saa-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-saa-mib.mib
+END
+AlcatelIND1LAG.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1LAG.mib
+END
+AlcatelIND1EService.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1EService.mib
+END
+AlcatelIND1MacAddress.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1MacAddress.mib
+END
+AlcatelIND1ServiceMgr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1ServiceMgr.mib
+END
+IEEE_802_1X.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IEEE_802_1X.mib
+END
+TIMETRA-GLOBAL-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-GLOBAL-MIB.mib
+END
+AlcatelIND1Bgp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Bgp.mib
+END
+IETF_TUNNEL.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_TUNNEL.mib
+END
+IETF_Q_BRIDGE.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_Q_BRIDGE.mib
+END
+AlcatelIND1Ipmrm.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ipmrm.mib
+END
+AlcatelIND1InterswitchProtocol.mib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1InterswitchProtocol.mib
+END
+IANA_IFTYPE.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IANA_IFTYPE.mib
+END
+ATM-TC-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/ATM-TC-MIB.mib
+END
+AlcatelIND1Igmp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Igmp.mib
+END
+AlcatelIND1Wccp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Wccp.mib
+END
+IETF_IPV6_TCP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPV6_TCP.mib
+END
+IETF_BGP4.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_BGP4.mib
+END
+IETF_IPV6_ICMP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPV6_ICMP.mib
+END
+IETF_IP_FORWARD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IP_FORWARD.mib
+END
+IEEE_8023_LAG.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IEEE_8023_LAG.mib
+END
+IETF_HCNUM_TC.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_HCNUM_TC.mib
+END
+AlcatelIND1GroupMobility.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1GroupMobility.mib
+END
+IETF_RIPv2.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_RIPv2.mib
+END
+AlcatelIND1Isis.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Isis.mib
+END
+AlcatelIND1Ip.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ip.mib
+END
+IETF_LANGTAG_TC.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_LANGTAG_TC.mib
+END
+MPLS-LSR-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/MPLS-LSR-MIB.mib
+END
+AlcatelIND1TrapMgr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1TrapMgr.mib
+END
+IETF_SNMP_USER_BASED_SM.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_USER_BASED_SM.mib
+END
+IETF_RS_232.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_RS_232.mib
+END
+IETF_RMON.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_RMON.mib
+END
+AlcatelIND1Devices.mib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Devices.mib
+END
+IETF_SNMP_MPD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_MPD.mib
+END
+AlcatelIND1IPv6.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1IPv6.mib
+END
+AlcatelIND1Rdp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Rdp.mib
+END
+AlcatelIND1Erp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Erp.mib
+END
+AlcatelIND1Ospf3.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ospf3.mib
+END
+TIMETRA-PORT-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-PORT-MIB.mib
+END
+IETF_SNMPv2.mib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMPv2.mib
+END
+MPLS-LDP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/MPLS-LDP-MIB.mib
+END
+alcatel-ind1-lldp-med-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-lldp-med-mib.mib
+END
+IETF_OSPF3.mib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_OSPF3.mib
+END
+AlcatelIND1Ntp.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ntp.mib
+END
+IETF_OSPF_TRAP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_OSPF_TRAP.mib
+END
+AlcatelIND1IPsec.mib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1IPsec.mib
+END
+IETF_IPMCAST.mib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_IPMCAST.mib
+END
+AlcatelIND1Ospf.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ospf.mib
+END
+TIMETRA-TC-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-TC-MIB.mib
+END
+IETF_ETHERLIKE.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_ETHERLIKE.mib
+END
+AlcatelIND1IprmV6.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1IprmV6.mib
+END
+AlcatelIND1Pim.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Pim.mib
+END
+IETF_SNMP_COMMUNITY.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMP_COMMUNITY.mib
+END
+IETF_DVMRP_STD_DRAFT.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_DVMRP_STD_DRAFT.mib
+END
+AlcatelIND1UDLD.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1UDLD.mib
+END
+AlcatelIND1PartitionedMgr.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1PartitionedMgr.mib
+END
+TIMETRA-SAP-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-SAP-MIB.mib
+END
+AlcatelIND1InLinePowerEthernet.mib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1InLinePowerEthernet.mib
+END
+AlcatelIND1Rip.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Rip.mib
+END
+AlcatelIND1Bfd.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Bfd.mib
+END
+AlcatelIND1SNMPAgent.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1SNMPAgent.mib
+END
+AlcatelIND1RouteMap.mib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1RouteMap.mib
+END
+AlcatelIND1Ssh.mib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/AlcatelIND1Ssh.mib
+END
+IETF_VRRP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_VRRP.mib
+END
+TIMETRA-OAM-TEST-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/TIMETRA-OAM-TEST-MIB.mib
+END
+alcatel-ind1-lbd-mib.mib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/alcatel-ind1-lbd-mib.mib
+END
+IETF_SNMPv2_UDP.mib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2167/observer/trunk/mibs/aos/IETF_SNMPv2_UDP.mib
+END

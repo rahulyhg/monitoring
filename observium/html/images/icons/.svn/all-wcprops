@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4022/observer/trunk/html/images/icons
+END
+humidity.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1249/observer/trunk/html/images/icons/humidity.png
+END
+postfix.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1221/observer/trunk/html/images/icons/postfix.png
+END
+sensors.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/810/observer/trunk/html/images/icons/sensors.png
+END
+inventory.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/inventory.png
+END
+temperature.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2038/observer/trunk/html/images/icons/temperature.png
+END
+wifi.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/wifi.png
+END
+rpm.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2928/observer/trunk/html/images/icons/rpm.png
+END
+device.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1221/observer/trunk/html/images/icons/device.png
+END
+powerdns.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3480/observer/trunk/html/images/icons/powerdns.png
+END
+arrow_pps_in.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/863/observer/trunk/html/images/icons/arrow_pps_in.png
+END
+postgresql.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4022/observer/trunk/html/images/icons/postgresql.png
+END
+apps.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1217/observer/trunk/html/images/icons/apps.png
+END
+arrow_pps_out.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/863/observer/trunk/html/images/icons/arrow_pps_out.png
+END
+environment.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1260/observer/trunk/html/images/icons/environment.png
+END
+storage.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1214/observer/trunk/html/images/icons/storage.png
+END
+server.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/server.png
+END
+overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1154/observer/trunk/html/images/icons/overview.png
+END
+loadbalancer.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2832/observer/trunk/html/images/icons/loadbalancer.png
+END
+ports.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1697/observer/trunk/html/images/icons/ports.png
+END
+memory.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1155/observer/trunk/html/images/icons/memory.png
+END
+drbd.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3064/observer/trunk/html/images/icons/drbd.png
+END
+bind.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1221/observer/trunk/html/images/icons/bind.png
+END
+apache.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1221/observer/trunk/html/images/icons/apache.png
+END
+nographs.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1149/observer/trunk/html/images/icons/nographs.png
+END
+current.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/current.png
+END
+ipv4.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/ipv4.png
+END
+printer.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/printer.png
+END
+ipv6.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/ipv6.png
+END
+zimbra.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3971/observer/trunk/html/images/icons/zimbra.png
+END
+fanspeed.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2038/observer/trunk/html/images/icons/fanspeed.png
+END
+arrow_updown.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1819/observer/trunk/html/images/icons/arrow_updown.png
+END
+toner.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1238/observer/trunk/html/images/icons/toner.png
+END
+exim-mailqueue.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4022/observer/trunk/html/images/icons/exim-mailqueue.png
+END
+power.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1139/observer/trunk/html/images/icons/power.png
+END
+wireless.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/wireless.png
+END
+ipmi.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1766/observer/trunk/html/images/icons/ipmi.png
+END
+voltage.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2038/observer/trunk/html/images/icons/voltage.png
+END
+frequency.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2038/observer/trunk/html/images/icons/frequency.png
+END
+dbm.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2779/observer/trunk/html/images/icons/dbm.png
+END
+exim.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4022/observer/trunk/html/images/icons/exim.png
+END
+powerdns-recursor.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3480/observer/trunk/html/images/icons/powerdns-recursor.png
+END
+mysql.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4022/observer/trunk/html/images/icons/mysql.png
+END
+firewall.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/firewall.png
+END
+netstats.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1506/observer/trunk/html/images/icons/netstats.png
+END
+snmp.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1928/observer/trunk/html/images/icons/snmp.png
+END
+processor.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2038/observer/trunk/html/images/icons/processor.png
+END
+syslog.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/syslog.png
+END
+diskio.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1214/observer/trunk/html/images/icons/diskio.png
+END
+services.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1221/observer/trunk/html/images/icons/services.png
+END
+eventlog.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/eventlog.png
+END
+nginx.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1722/observer/trunk/html/images/icons/nginx.png
+END
+system.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1400/observer/trunk/html/images/icons/system.png
+END
+port.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1230/observer/trunk/html/images/icons/port.png
+END
+graphs.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1149/observer/trunk/html/images/icons/graphs.png
+END
+network.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3330/observer/trunk/html/images/icons/network.png
+END
+alerts.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1995/observer/trunk/html/images/icons/alerts.png
+END
+deb.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2928/observer/trunk/html/images/icons/deb.png
+END
+mempools.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1506/observer/trunk/html/images/icons/mempools.png
+END

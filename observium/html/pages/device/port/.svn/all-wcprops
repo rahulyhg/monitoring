@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/port
+END
+arp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/port/arp.inc.php
+END
+realtime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3240/observer/trunk/html/pages/device/port/realtime.inc.php
+END
+adsl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3628/observer/trunk/html/pages/device/port/adsl.inc.php
+END
+vlans.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/port/vlans.inc.php
+END
+events.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3601/observer/trunk/html/pages/device/port/events.inc.php
+END
+graphs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/port/graphs.inc.php
+END
+junose-atm-vp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/port/junose-atm-vp.inc.php
+END
+pagp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3240/observer/trunk/html/pages/device/port/pagp.inc.php
+END
+fdb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/port/fdb.inc.php
+END
+macaccounting.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3884/observer/trunk/html/pages/device/port/macaccounting.inc.php
+END
+sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4024/observer/trunk/html/pages/device/port/sensors.inc.php
+END
+macaccounting_top10.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3855/observer/trunk/html/pages/device/port/macaccounting_top10.inc.php
+END

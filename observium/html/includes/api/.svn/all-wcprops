@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3874/observer/trunk/html/includes/api
+END
+module.inventory.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3382/observer/trunk/html/includes/api/module.inventory.inc.php
+END
+module.packages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3382/observer/trunk/html/includes/api/module.packages.inc.php
+END
+module.billing.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3382/observer/trunk/html/includes/api/module.billing.inc.php
+END
+errorcodes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3382/observer/trunk/html/includes/api/errorcodes.inc.php
+END
+functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3874/observer/trunk/html/includes/api/functions.inc.php
+END
+module.demo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3382/observer/trunk/html/includes/api/module.demo.inc.php
+END

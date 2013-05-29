@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades
+END
+CYCLADES-ACS-INFO-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-INFO-MIB.mib
+END
+CYCLADES-ACS-PM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-PM-MIB.mib
+END
+CYCLADES-ACS-SYS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-SYS-MIB.mib
+END
+CYCLADES-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-MIB.mib
+END
+CYCLADES-ACS-ADM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-ADM-MIB.mib
+END
+CYCLADES-ACS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-MIB.mib
+END
+CYCLADES-ACS-CONF-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3805/observer/trunk/mibs/cyclades/CYCLADES-ACS-CONF-MIB.mib
+END

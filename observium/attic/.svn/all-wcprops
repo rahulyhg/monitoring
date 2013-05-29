@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3926/observer/trunk/attic
+END
+interfaces.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3195/observer/trunk/attic/interfaces.inc.php
+END
+cisco-entity-sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2340/observer/trunk/attic/cisco-entity-sensors.inc.php
+END
+generate-iplist.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3747/observer/trunk/attic/generate-iplist.php
+END
+voltages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3089/observer/trunk/attic/voltages.inc.php
+END
+cisco_entity_sensor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2774/observer/trunk/attic/cisco_entity_sensor.inc.php
+END
+scan-snmp.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2302/observer/trunk/attic/scan-snmp.php
+END
+unix-graphing.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3240/observer/trunk/attic/unix-graphing.php
+END
+calendar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3895/observer/trunk/attic/calendar.jpg
+END
+purgeports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3240/observer/trunk/attic/purgeports.inc.php
+END
+print-menubar.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3926/observer/trunk/attic/print-menubar.php
+END
+poll-reachability.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3089/observer/trunk/attic/poll-reachability.php
+END
+ciscosensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2336/observer/trunk/attic/ciscosensors.inc.php
+END
+generate-map.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3747/observer/trunk/attic/generate-map.sh
+END
+temperatures.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3089/observer/trunk/attic/temperatures.inc.php
+END

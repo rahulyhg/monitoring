@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3971/observer/trunk/html/includes/graphs/application
+END
+ntpd_freq.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_freq.inc.php
+END
+ntpd_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_stats.inc.php
+END
+mysql_innodb_semaphores.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_innodb_semaphores.inc.php
+END
+mysql_command_counters.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2535/observer/trunk/html/includes/graphs/application/mysql_command_counters.inc.php
+END
+mysql_innodb_io.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2670/observer/trunk/html/includes/graphs/application/mysql_innodb_io.inc.php
+END
+apache_cpu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2667/observer/trunk/html/includes/graphs/application/apache_cpu.inc.php
+END
+postfix_reject.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3658/observer/trunk/html/includes/graphs/application/postfix_reject.inc.php
+END
+mysql_innodb_io_pending.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2713/observer/trunk/html/includes/graphs/application/mysql_innodb_io_pending.inc.php
+END
+memcached_uptime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3167/observer/trunk/html/includes/graphs/application/memcached_uptime.inc.php
+END
+nginx_req.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2666/observer/trunk/html/includes/graphs/application/nginx_req.inc.php
+END
+shoutcast_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/shoutcast_stats.inc.php
+END
+powerdns-recursor_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_queries.inc.php
+END
+mysql_myisam_indexes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_myisam_indexes.inc.php
+END
+ntpdserver_packets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/ntpdserver_packets.inc.php
+END
+apache_hits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2667/observer/trunk/html/includes/graphs/application/apache_hits.inc.php
+END
+powerdns-recursor_cpuload.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/powerdns-recursor_cpuload.inc.php
+END
+ntpdserver_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpdserver_stats.inc.php
+END
+mysql_network_traffic.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/application/mysql_network_traffic.inc.php
+END
+postgresql_blks.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_blks.inc.php
+END
+mysql_files_tables.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2713/observer/trunk/html/includes/graphs/application/mysql_files_tables.inc.php
+END
+postgresql_xact.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_xact.inc.php
+END
+powerdns-recursor_hitrate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/powerdns-recursor_hitrate.inc.php
+END
+postgresql_tuples_query.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_tuples_query.inc.php
+END
+ntpd_stratum.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_stratum.inc.php
+END
+nginx_connections.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2666/observer/trunk/html/includes/graphs/application/nginx_connections.inc.php
+END
+mailscanner_sent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2642/observer/trunk/html/includes/graphs/application/mailscanner_sent.inc.php
+END
+unbound_flags.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_flags.inc.php
+END
+ntpd_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_bits.inc.php
+END
+memcached_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3096/observer/trunk/html/includes/graphs/application/memcached_bits.inc.php
+END
+memcached_commands.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3099/observer/trunk/html/includes/graphs/application/memcached_commands.inc.php
+END
+powerdns-recursor_timeouts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_timeouts.inc.php
+END
+shoutcast_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/application/shoutcast_bits.inc.php
+END
+unbound_class.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_class.inc.php
+END
+powerdns-recursor_errors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_errors.inc.php
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3169/observer/trunk/html/includes/graphs/application/auth.inc.php
+END
+freeradius_accounting.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3731/observer/trunk/html/includes/graphs/application/freeradius_accounting.inc.php
+END
+mysql_query_cache_memory.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_query_cache_memory.inc.php
+END
+drbd_network_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/application/drbd_network_bits.inc.php
+END
+mysql_slow_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_slow_queries.inc.php
+END
+memcached.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3096/observer/trunk/html/includes/graphs/application/memcached.inc.php
+END
+drbd_disk_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3063/observer/trunk/html/includes/graphs/application/drbd_disk_bits.inc.php
+END
+memcached_items.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/application/memcached_items.inc.php
+END
+mysql_status.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3153/observer/trunk/html/includes/graphs/application/mysql_status.inc.php
+END
+shoutcast_multi_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3363/observer/trunk/html/includes/graphs/application/shoutcast_multi_bits.inc.php
+END
+ntpdserver_freq.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpdserver_freq.inc.php
+END
+powerdns_querycache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_querycache.inc.php
+END
+mysql_innodb_insert_buffer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2713/observer/trunk/html/includes/graphs/application/mysql_innodb_insert_buffer.inc.php
+END
+mailscanner_spam.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2782/observer/trunk/html/includes/graphs/application/mailscanner_spam.inc.php
+END
+mysql_query_cache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_query_cache.inc.php
+END
+nfs_nfs2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3413/observer/trunk/html/includes/graphs/application/nfs_nfs2.inc.php
+END
+ntpdserver_uptime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpdserver_uptime.inc.php
+END
+ntpd_packets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_packets.inc.php
+END
+nfs_nfs3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/nfs_nfs3.inc.php
+END
+memcached_threads.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/application/memcached_threads.inc.php
+END
+nfs_nfs4.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/nfs_nfs4.inc.php
+END
+powerdns_latency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_latency.inc.php
+END
+apache_scoreboard.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2643/observer/trunk/html/includes/graphs/application/apache_scoreboard.inc.php
+END
+ntpdserver_buffer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpdserver_buffer.inc.php
+END
+postfix_sent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3658/observer/trunk/html/includes/graphs/application/postfix_sent.inc.php
+END
+ntpd_uptime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_uptime.inc.php
+END
+nptd_uptime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/nptd_uptime.inc.php
+END
+freeradius_authentication.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3731/observer/trunk/html/includes/graphs/application/freeradius_authentication.inc.php
+END
+powerdns_fail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_fail.inc.php
+END
+ntpd_buffer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3337/observer/trunk/html/includes/graphs/application/ntpd_buffer.inc.php
+END
+postgresql_tuples.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_tuples.inc.php
+END
+memcached_data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3185/observer/trunk/html/includes/graphs/application/memcached_data.inc.php
+END
+apache_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/apache_bits.inc.php
+END
+unbound_memory.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_memory.inc.php
+END
+powerdns-recursor_qalatency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_qalatency.inc.php
+END
+shoutcast_multi_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3363/observer/trunk/html/includes/graphs/application/shoutcast_multi_stats.inc.php
+END
+zimbra_fdcount.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3971/observer/trunk/html/includes/graphs/application/zimbra_fdcount.inc.php
+END
+mysql_connections.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2713/observer/trunk/html/includes/graphs/application/mysql_connections.inc.php
+END
+mysql_table_locks.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_table_locks.inc.php
+END
+postfix_spam.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3658/observer/trunk/html/includes/graphs/application/postfix_spam.inc.php
+END
+ntpdserver_bits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/ntpdserver_bits.inc.php
+END
+unbound_queue.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_queue.inc.php
+END
+ntpclient_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpclient_stats.inc.php
+END
+drbd_queue.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3059/observer/trunk/html/includes/graphs/application/drbd_queue.inc.php
+END
+mysql_temporary_objects.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_temporary_objects.inc.php
+END
+mysql_innodb_buffer_pool.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2542/observer/trunk/html/includes/graphs/application/mysql_innodb_buffer_pool.inc.php
+END
+powerdns-recursor_latency.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_latency.inc.php
+END
+powerdns_recursing.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_recursing.inc.php
+END
+drbd_unsynced.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3059/observer/trunk/html/includes/graphs/application/drbd_unsynced.inc.php
+END
+powerdns-recursor_limits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_limits.inc.php
+END
+mysql_innodb_transactions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_innodb_transactions.inc.php
+END
+powerdns-recursor_cache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_cache.inc.php
+END
+unbound_rcode.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3746/observer/trunk/html/includes/graphs/application/unbound_rcode.inc.php
+END
+powerdns-recursor_outqueries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_outqueries.inc.php
+END
+mailscanner_reject.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2782/observer/trunk/html/includes/graphs/application/mailscanner_reject.inc.php
+END
+mysql_select_types.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_select_types.inc.php
+END
+mysql_innodb_row_operations.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_innodb_row_operations.inc.php
+END
+exim-mailqueue_total.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/exim-mailqueue_total.inc.php
+END
+zimbra_mtaqueue.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3971/observer/trunk/html/includes/graphs/application/zimbra_mtaqueue.inc.php
+END
+mysql_innodb_buffer_pool_activity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2713/observer/trunk/html/includes/graphs/application/mysql_innodb_buffer_pool_activity.inc.php
+END
+unbound_qtype.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3746/observer/trunk/html/includes/graphs/application/unbound_qtype.inc.php
+END
+powerdns_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_queries.inc.php
+END
+mysql_innodb_log.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2670/observer/trunk/html/includes/graphs/application/mysql_innodb_log.inc.php
+END
+mysql_sorts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2968/observer/trunk/html/includes/graphs/application/mysql_sorts.inc.php
+END
+postgresql_connects.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_connects.inc.php
+END
+postgresql_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/postgresql_queries.inc.php
+END
+powerdns-recursor_load.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_load.inc.php
+END
+unbound_opcode.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_opcode.inc.php
+END
+powerdns_queries_udp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_queries_udp.inc.php
+END
+powerdns-recursor_tcpqueries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3789/observer/trunk/html/includes/graphs/application/powerdns-recursor_tcpqueries.inc.php
+END
+unbound_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/application/unbound_queries.inc.php
+END
+ntpdserver_stratum.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpdserver_stratum.inc.php
+END
+powerdns_packetcache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/powerdns_packetcache.inc.php
+END
+ntpclient_freq.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2630/observer/trunk/html/includes/graphs/application/ntpclient_freq.inc.php
+END

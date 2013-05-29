@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4015/observer/trunk/includes/pear/Mail/Mail
+END
+sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4015/observer/trunk/includes/pear/Mail/Mail/sendmail.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4015/observer/trunk/includes/pear/Mail/Mail/mail.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4015/observer/trunk/includes/pear/Mail/Mail/smtp.php
+END
+RFC822.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4015/observer/trunk/includes/pear/Mail/Mail/RFC822.php
+END

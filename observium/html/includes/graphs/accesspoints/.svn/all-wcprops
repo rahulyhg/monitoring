@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3225/observer/trunk/html/includes/graphs/accesspoints/auth.inc.php
+END
+txpow.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/txpow.inc.php
+END
+numasoclients.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/numasoclients.inc.php
+END
+channel.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3223/observer/trunk/html/includes/graphs/accesspoints/channel.inc.php
+END
+interference.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/interference.inc.php
+END
+nummonclients.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/nummonclients.inc.php
+END
+radioutil.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/radioutil.inc.php
+END
+nummonbssid.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3884/observer/trunk/html/includes/graphs/accesspoints/nummonbssid.inc.php
+END

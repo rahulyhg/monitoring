@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4072/observer/trunk/includes
+END
+dbFacile.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3276/observer/trunk/includes/dbFacile.php
+END
+static-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3150/observer/trunk/includes/static-config.php
+END
+versioncheck.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4063/observer/trunk/includes/versioncheck.inc.php
+END
+services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3144/observer/trunk/includes/services.inc.php
+END
+vmware_guestid.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1976/observer/trunk/includes/vmware_guestid.inc.php
+END
+rrdtool.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4009/observer/trunk/includes/rrdtool.inc.php
+END
+hh3c.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3920/observer/trunk/includes/hh3c.inc.php
+END
+alerts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4024/observer/trunk/includes/alerts.inc.php
+END
+rewrites.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4042/observer/trunk/includes/rewrites.php
+END
+include-dir.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3240/observer/trunk/includes/include-dir.inc.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4065/observer/trunk/includes/functions.php
+END
+snom-graphing.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3240/observer/trunk/includes/snom-graphing.php
+END
+geolocation.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3952/observer/trunk/includes/geolocation.inc.php
+END
+defaults.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4054/observer/trunk/includes/defaults.inc.php
+END
+syslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3240/observer/trunk/includes/syslog.php
+END
+billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3739/observer/trunk/includes/billing.php
+END
+cisco-entities.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3240/observer/trunk/includes/cisco-entities.php
+END
+definitions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4065/observer/trunk/includes/definitions.inc.php
+END
+port-descr-parser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3265/observer/trunk/includes/port-descr-parser.inc.php
+END
+console_colour.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2643/observer/trunk/includes/console_colour.php
+END
+snmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4072/observer/trunk/includes/snmp.inc.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4065/observer/trunk/includes/common.php
+END

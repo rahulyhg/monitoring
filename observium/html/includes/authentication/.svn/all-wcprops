@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3574/observer/trunk/html/includes/authentication
+END
+mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3574/observer/trunk/html/includes/authentication/mysql.inc.php
+END
+http-auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/html/includes/authentication/http-auth.inc.php
+END
+ldap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3564/observer/trunk/html/includes/authentication/ldap.inc.php
+END

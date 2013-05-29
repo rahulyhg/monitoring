@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4045/observer/trunk/includes/discovery/os
+END
+aix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4031/observer/trunk/includes/discovery/os/aix.inc.php
+END
+tranzeo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/tranzeo.inc.php
+END
+prestige.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/prestige.inc.php
+END
+jwos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/jwos.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/ipoman.inc.php
+END
+axiscam.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/axiscam.inc.php
+END
+extremeware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/extremeware.inc.php
+END
+watchguard.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3662/observer/trunk/includes/discovery/os/watchguard.inc.php
+END
+acsw.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2956/observer/trunk/includes/discovery/os/acsw.inc.php
+END
+nos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3424/observer/trunk/includes/discovery/os/nos.inc.php
+END
+linux.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3991/observer/trunk/includes/discovery/os/linux.inc.php
+END
+3com.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3805/observer/trunk/includes/discovery/os/3com.inc.php
+END
+zyxeles.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/zyxeles.inc.php
+END
+draytek.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3466/observer/trunk/includes/discovery/os/draytek.inc.php
+END
+junose.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/junose.inc.php
+END
+konica.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/konica.inc.php
+END
+netware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/netware.inc.php
+END
+symbol.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2439/observer/trunk/includes/discovery/os/symbol.inc.php
+END
+arista-eos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/arista-eos.inc.php
+END
+vyatta.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/vyatta.inc.php
+END
+drac.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/os/drac.inc.php
+END
+adva.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/adva.inc.php
+END
+engenius.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/engenius.inc.php
+END
+netvision.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1888/observer/trunk/includes/discovery/os/netvision.inc.php
+END
+wut.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3359/observer/trunk/includes/discovery/os/wut.inc.php
+END
+juniperive.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3499/observer/trunk/includes/discovery/os/juniperive.inc.php
+END
+axisdocserver.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/axisdocserver.inc.php
+END
+deltaups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/deltaups.inc.php
+END
+screenos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/screenos.inc.php
+END
+zywall.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/zywall.inc.php
+END
+papouch-tme.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/papouch-tme.inc.php
+END
+dell-laser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/dell-laser.inc.php
+END
+epson.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3036/observer/trunk/includes/discovery/os/epson.inc.php
+END
+fortigate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/fortigate.inc.php
+END
+ironware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/ironware.inc.php
+END
+wxgoos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/wxgoos.inc.php
+END
+liebert.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2358/observer/trunk/includes/discovery/os/liebert.inc.php
+END
+openbsd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3505/observer/trunk/includes/discovery/os/openbsd.inc.php
+END
+fabos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3572/observer/trunk/includes/discovery/os/fabos.inc.php
+END
+redback.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/redback.inc.php
+END
+arubaos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2806/observer/trunk/includes/discovery/os/arubaos.inc.php
+END
+netopia.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/netopia.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4045/observer/trunk/includes/discovery/os/mgeups.inc.php
+END
+radlan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/radlan.inc.php
+END
+asa.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/asa.inc.php
+END
+brother.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/brother.inc.php
+END
+hp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3805/observer/trunk/includes/discovery/os/hp.inc.php
+END
+sentry3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1940/observer/trunk/includes/discovery/os/sentry3.inc.php
+END
+catos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/catos.inc.php
+END
+packetshaper.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/packetshaper.inc.php
+END
+freebsd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3817/observer/trunk/includes/discovery/os/freebsd.inc.php
+END
+ftos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3749/observer/trunk/includes/discovery/os/ftos.inc.php
+END
+areca.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/areca.inc.php
+END
+cometsystem.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1943/observer/trunk/includes/discovery/os/cometsystem.inc.php
+END
+gamatronicups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/gamatronicups.inc.php
+END
+okilan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/okilan.inc.php
+END
+proxim.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2247/observer/trunk/includes/discovery/os/proxim.inc.php
+END
+airport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/airport.inc.php
+END
+panos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2806/observer/trunk/includes/discovery/os/panos.inc.php
+END
+zyxelnwa.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1943/observer/trunk/includes/discovery/os/zyxelnwa.inc.php
+END
+routeros.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/routeros.inc.php
+END
+sanos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1833/observer/trunk/includes/discovery/os/sanos.inc.php
+END
+poweralert.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2037/observer/trunk/includes/discovery/os/poweralert.inc.php
+END
+mrvld.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2208/observer/trunk/includes/discovery/os/mrvld.inc.php
+END
+zxr10.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2750/observer/trunk/includes/discovery/os/zxr10.inc.php
+END
+nxos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/nxos.inc.php
+END
+allied.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/allied.inc.php
+END
+ios.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/ios.inc.php
+END
+sonicwall.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/sonicwall.inc.php
+END
+alcatel-lucent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/os/alcatel-lucent.inc.php
+END
+kyocera.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/kyocera.inc.php
+END
+junos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/junos.inc.php
+END
+pix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3414/observer/trunk/includes/discovery/os/pix.inc.php
+END
+vmware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1978/observer/trunk/includes/discovery/os/vmware.inc.php
+END
+speedtouch.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/speedtouch.inc.php
+END
+bcm963.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/bcm963.inc.php
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3852/observer/trunk/includes/discovery/os/apc.inc.php
+END
+xerox.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/xerox.inc.php
+END
+powerconnect.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4007/observer/trunk/includes/discovery/os/powerconnect.inc.php
+END
+powerware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1879/observer/trunk/includes/discovery/os/powerware.inc.php
+END
+jetdirect.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/jetdirect.inc.php
+END
+samsung.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3820/observer/trunk/includes/discovery/os/samsung.inc.php
+END
+netscaler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2161/observer/trunk/includes/discovery/os/netscaler.inc.php
+END
+arris.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4033/observer/trunk/includes/discovery/os/arris.inc.php
+END
+mgepdu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/mgepdu.inc.php
+END
+cat1900.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/cat1900.inc.php
+END
+dlinkap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/dlinkap.inc.php
+END
+bnt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3015/observer/trunk/includes/discovery/os/bnt.inc.php
+END
+ciscosb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3466/observer/trunk/includes/discovery/os/ciscosb.inc.php
+END
+wlc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3676/observer/trunk/includes/discovery/os/wlc.inc.php
+END
+nrg.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3187/observer/trunk/includes/discovery/os/nrg.inc.php
+END
+netmanplus.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/netmanplus.inc.php
+END
+supermicro-switch.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3161/observer/trunk/includes/discovery/os/supermicro-switch.inc.php
+END
+netapp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3929/observer/trunk/includes/discovery/os/netapp.inc.php
+END
+avaya-ers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2854/observer/trunk/includes/discovery/os/avaya-ers.inc.php
+END
+windows.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/windows.inc.php
+END
+avocent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2712/observer/trunk/includes/discovery/os/avocent.inc.php
+END
+raritan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2398/observer/trunk/includes/discovery/os/raritan.inc.php
+END
+dlink.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/dlink.inc.php
+END
+ricoh.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/ricoh.inc.php
+END
+vrp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2994/observer/trunk/includes/discovery/os/vrp.inc.php
+END
+powervault.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/powervault.inc.php
+END
+solaris.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3477/observer/trunk/includes/discovery/os/solaris.inc.php
+END
+akcp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/akcp.inc.php
+END
+korenix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4030/observer/trunk/includes/discovery/os/korenix.inc.php
+END
+netbsd.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/netbsd.inc.php
+END
+ies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/os/ies.inc.php
+END

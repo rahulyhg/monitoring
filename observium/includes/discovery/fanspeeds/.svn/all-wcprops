@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3388/observer/trunk/includes/discovery/fanspeeds
+END
+lmsensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/fanspeeds/lmsensors.inc.php
+END
+supermicro.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/fanspeeds/supermicro.inc.php
+END
+areca.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/fanspeeds/areca.inc.php
+END
+nos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3388/observer/trunk/includes/discovery/fanspeeds/nos.inc.php
+END
+dell.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3280/observer/trunk/includes/discovery/fanspeeds/dell.inc.php
+END

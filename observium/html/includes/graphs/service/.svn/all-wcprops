@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3266/observer/trunk/html/includes/graphs/service
+END
+auth.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3240/observer/trunk/html/includes/graphs/service/auth.inc.php
+END
+availability.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3266/observer/trunk/html/includes/graphs/service/availability.inc.php
+END

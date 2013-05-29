@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront
+END
+PACKETFRONT-COPY-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront/PACKETFRONT-COPY-MIB.mib
+END
+PACKETFRONT-DRG-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront/PACKETFRONT-DRG-MIB.mib
+END
+PACKETFRONT-TC.mib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront/PACKETFRONT-TC.mib
+END
+PACKETFRONT-PRODUCTS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront/PACKETFRONT-PRODUCTS-MIB.mib
+END
+PACKETFRONT-SMI.mib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3805/observer/trunk/mibs/packetfront/PACKETFRONT-SMI.mib
+END

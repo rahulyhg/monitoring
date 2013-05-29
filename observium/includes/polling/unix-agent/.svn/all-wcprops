@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3863/observer/trunk/includes/polling/unix-agent
+END
+raspberrypi.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3677/observer/trunk/includes/polling/unix-agent/raspberrypi.inc.php
+END
+hddtemp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3863/observer/trunk/includes/polling/unix-agent/hddtemp.inc.php
+END
+munin-plugins.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3240/observer/trunk/includes/polling/unix-agent/munin-plugins.inc.php
+END
+dmi.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3235/observer/trunk/includes/polling/unix-agent/dmi.inc.php
+END
+ksm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3378/observer/trunk/includes/polling/unix-agent/ksm.inc.php
+END
+ipmitool.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3781/observer/trunk/includes/polling/unix-agent/ipmitool.inc.php
+END
+packages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3240/observer/trunk/includes/polling/unix-agent/packages.inc.php
+END

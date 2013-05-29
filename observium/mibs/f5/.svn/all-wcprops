@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3805/observer/trunk/mibs/f5
+END
+F5-BIGIP-APM-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3805/observer/trunk/mibs/f5/F5-BIGIP-APM-MIB.txt
+END
+F5-BIGIP-GLOBAL-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/f5/F5-BIGIP-GLOBAL-MIB.txt
+END
+F5-BIGIP-SYSTEM-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/f5/F5-BIGIP-SYSTEM-MIB.txt
+END
+F5-BIGIP-COMMON-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3805/observer/trunk/mibs/f5/F5-BIGIP-COMMON-MIB.txt
+END
+F5-BIGIP-LOCAL-MIB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3805/observer/trunk/mibs/f5/F5-BIGIP-LOCAL-MIB.txt
+END

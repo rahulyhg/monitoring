@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors
+END
+current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/current.inc.php
+END
+dbm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2780/observer/trunk/html/pages/device/overview/sensors/dbm.inc.php
+END
+voltages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/voltages.inc.php
+END
+fanspeeds.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/fanspeeds.inc.php
+END
+frequencies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/frequencies.inc.php
+END
+humidity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/humidity.inc.php
+END
+power.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2130/observer/trunk/html/pages/device/overview/sensors/power.inc.php
+END
+temperatures.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3330/observer/trunk/html/pages/device/overview/sensors/temperatures.inc.php
+END

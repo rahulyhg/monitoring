@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4067/observer/trunk/html/pages/device/logs
+END
+eventlog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4067/observer/trunk/html/pages/device/logs/eventlog.inc.php
+END
+syslog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4067/observer/trunk/html/pages/device/logs/syslog.inc.php
+END

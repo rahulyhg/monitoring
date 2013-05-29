@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools
+END
+screenos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2493/observer/trunk/includes/discovery/mempools/screenos.inc.php
+END
+ftos-c-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/ftos-c-series.inc.php
+END
+fortigate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2986/observer/trunk/includes/discovery/mempools/fortigate.inc.php
+END
+cemp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2995/observer/trunk/includes/discovery/mempools/cemp.inc.php
+END
+ftos-e-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/ftos-e-series.inc.php
+END
+avaya-ers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2854/observer/trunk/includes/discovery/mempools/avaya-ers.inc.php
+END
+powerconnect-cpu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2861/observer/trunk/includes/discovery/mempools/powerconnect-cpu.inc.php
+END
+junos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/junos.inc.php
+END
+hrstorage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3351/observer/trunk/includes/discovery/mempools/hrstorage.inc.php
+END
+nos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3388/observer/trunk/includes/discovery/mempools/nos.inc.php
+END
+dlink.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3593/observer/trunk/includes/discovery/mempools/dlink.inc.php
+END
+ftos-s-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/ftos-s-series.inc.php
+END
+vrp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/vrp.inc.php
+END
+hp-procurve.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/hp-procurve.inc.php
+END
+airos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3396/observer/trunk/includes/discovery/mempools/airos.inc.php
+END
+ironware-dyn.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2493/observer/trunk/includes/discovery/mempools/ironware-dyn.inc.php
+END
+cmp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/mempools/cmp.inc.php
+END
+aos-device.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/mempools/aos-device.inc.php
+END
+netscaler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2825/observer/trunk/includes/discovery/mempools/netscaler.inc.php
+END
+juniperive.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3456/observer/trunk/includes/discovery/mempools/juniperive.inc.php
+END

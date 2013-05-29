@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4073/observer/trunk/html/pages
+END
+bill.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4064/observer/trunk/html/pages/bill.inc.php
+END
+addsrv.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3144/observer/trunk/html/pages/addsrv.inc.php
+END
+customers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3884/observer/trunk/html/pages/customers.inc.php
+END
+edituser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3980/observer/trunk/html/pages/edituser.inc.php
+END
+routing.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3926/observer/trunk/html/pages/routing.inc.php
+END
+adduser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3911/observer/trunk/html/pages/adduser.inc.php
+END
+locations.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4024/observer/trunk/html/pages/locations.inc.php
+END
+iftype.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4024/observer/trunk/html/pages/iftype.inc.php
+END
+preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2691/observer/trunk/html/pages/preferences.inc.php
+END
+delhost.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3874/observer/trunk/html/pages/delhost.inc.php
+END
+authlog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3884/observer/trunk/html/pages/authlog.inc.php
+END
+bills.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3884/observer/trunk/html/pages/bills.inc.php
+END
+about.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4049/observer/trunk/html/pages/about.inc.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/352/observer/trunk/html/pages/.htaccess
+END
+syslog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4067/observer/trunk/html/pages/syslog.inc.php
+END
+devices.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4024/observer/trunk/html/pages/devices.inc.php
+END
+simpleapi.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3884/observer/trunk/html/pages/simpleapi.inc.php
+END
+services.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3760/observer/trunk/html/pages/services.inc.php
+END
+eventlog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4067/observer/trunk/html/pages/eventlog.inc.php
+END
+graphs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4062/observer/trunk/html/pages/graphs.inc.php
+END
+addhost.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3884/observer/trunk/html/pages/addhost.inc.php
+END
+inventory.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3874/observer/trunk/html/pages/inventory.inc.php
+END
+device.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4071/observer/trunk/html/pages/device.inc.php
+END
+delsrv.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2691/observer/trunk/html/pages/delsrv.inc.php
+END
+pollerlog.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3884/observer/trunk/html/pages/pollerlog.inc.php
+END
+settings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1897/observer/trunk/html/pages/settings.inc.php
+END
+apps.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3971/observer/trunk/html/pages/apps.inc.php
+END
+usermenu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3911/observer/trunk/html/pages/usermenu.inc.php
+END
+health.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3884/observer/trunk/html/pages/health.inc.php
+END
+search.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3915/observer/trunk/html/pages/search.inc.php
+END
+configuration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2643/observer/trunk/html/pages/configuration.inc.php
+END
+ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4038/observer/trunk/html/pages/ports.inc.php
+END
+pseudowires.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3845/observer/trunk/html/pages/pseudowires.inc.php
+END
+purgeports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3195/observer/trunk/html/pages/purgeports.inc.php
+END
+deleted-ports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4038/observer/trunk/html/pages/deleted-ports.inc.php
+END
+packages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3616/observer/trunk/html/pages/packages.inc.php
+END
+logon.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3881/observer/trunk/html/pages/logon.inc.php
+END

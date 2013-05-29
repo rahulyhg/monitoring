@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3251/observer/trunk/html/includes/collectd
+END
+definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2516/observer/trunk/html/includes/collectd/definitions.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3251/observer/trunk/html/includes/collectd/LICENSE
+END
+definitions.local.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1390/observer/trunk/html/includes/collectd/definitions.local.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3251/observer/trunk/html/includes/collectd/config.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3240/observer/trunk/html/includes/collectd/functions.php
+END

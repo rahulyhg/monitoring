@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/temperatures
+END
+routeros.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/routeros.inc.php
+END
+ipoman.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/temperatures/ipoman.inc.php
+END
+mrvld.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3547/observer/trunk/includes/discovery/temperatures/mrvld.inc.php
+END
+netbotz.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2516/observer/trunk/includes/discovery/temperatures/netbotz.inc.php
+END
+zyxel-ies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/zyxel-ies.inc.php
+END
+rfc1628.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/temperatures/rfc1628.inc.php
+END
+junos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/junos.inc.php
+END
+nos.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3388/observer/trunk/includes/discovery/temperatures/nos.inc.php
+END
+cisco-envmon.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/temperatures/cisco-envmon.inc.php
+END
+lm-sensors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2999/observer/trunk/includes/discovery/temperatures/lm-sensors.inc.php
+END
+junose.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/junose.inc.php
+END
+apc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3904/observer/trunk/includes/discovery/temperatures/apc.inc.php
+END
+powerconnect.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2964/observer/trunk/includes/discovery/temperatures/powerconnect.inc.php
+END
+cometsystem-p85xx.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2642/observer/trunk/includes/discovery/temperatures/cometsystem-p85xx.inc.php
+END
+drac.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4017/observer/trunk/includes/discovery/temperatures/drac.inc.php
+END
+adva.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1880/observer/trunk/includes/discovery/temperatures/adva.inc.php
+END
+wut.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/temperatures/wut.inc.php
+END
+pcoweb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3117/observer/trunk/includes/discovery/temperatures/pcoweb.inc.php
+END
+aos-device.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/aos-device.inc.php
+END
+papouch-tme.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3330/observer/trunk/includes/discovery/temperatures/papouch-tme.inc.php
+END
+ftos-c-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/ftos-c-series.inc.php
+END
+ftos-e-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/ftos-e-series.inc.php
+END
+wlc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3739/observer/trunk/includes/discovery/temperatures/wlc.inc.php
+END
+ironware.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/ironware.inc.php
+END
+supermicro.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/supermicro.inc.php
+END
+avaya-ers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2854/observer/trunk/includes/discovery/temperatures/avaya-ers.inc.php
+END
+xups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/xups.inc.php
+END
+mgeups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3240/observer/trunk/includes/discovery/temperatures/mgeups.inc.php
+END
+raritan.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3292/observer/trunk/includes/discovery/temperatures/raritan.inc.php
+END
+ftos-s-series.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/ftos-s-series.inc.php
+END
+sentry3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/sentry3.inc.php
+END
+areca.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/areca.inc.php
+END
+junos-dom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/junos-dom.inc.php
+END
+brocade-dom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/brocade-dom.inc.php
+END
+observernms-custom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3857/observer/trunk/includes/discovery/temperatures/observernms-custom.inc.php
+END
+akcp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2238/observer/trunk/includes/discovery/temperatures/akcp.inc.php
+END
+dell.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3279/observer/trunk/includes/discovery/temperatures/dell.inc.php
+END

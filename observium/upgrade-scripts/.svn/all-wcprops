@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2760/observer/trunk/upgrade-scripts
+END
+fix-port-rrd.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2516/observer/trunk/upgrade-scripts/fix-port-rrd.php
+END
+fix-billing-2758.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2760/observer/trunk/upgrade-scripts/fix-billing-2758.inc.php
+END
+fix-sensor-rrd.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2516/observer/trunk/upgrade-scripts/fix-sensor-rrd.php
+END
+fix-events.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2029/observer/trunk/upgrade-scripts/fix-events.php
+END
